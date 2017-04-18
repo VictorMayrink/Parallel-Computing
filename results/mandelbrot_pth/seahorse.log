@@ -1,0 +1,400 @@
+6.315726,,task-clock:u,6315726,100.00,1.510,CPUs utilized
+0,,context-switches:u,6315726,100.00,0.000,K/sec
+0,,cpu-migrations:u,6315726,100.00,0.000,K/sec
+131,,page-faults:u,6315726,100.00,0.021,M/sec
+2404939,,cycles:u,6691962,100.00,0.381,GHz
+6433287,,stalled-cycles-frontend:u,6691962,100.00,267.50,frontend cycles idle
+1679107,,instructions:u,6691962,100.00,0.70,insn per cycle
+,,,,,3.83,stalled cycles per insn
+232856,,branches:u,6691962,100.00,36.869,M/sec
+9047,,branch-misses:u,6691962,100.00,3.89,of all branches
+6.747959,,task-clock:u,6747959,100.00,1.458,CPUs utilized
+0,,context-switches:u,6747959,100.00,0.000,K/sec
+0,,cpu-migrations:u,6747959,100.00,0.000,K/sec
+131,,page-faults:u,6747959,100.00,0.019,M/sec
+2370259,,cycles:u,7173017,100.00,0.351,GHz
+6906996,,stalled-cycles-frontend:u,7173017,100.00,291.40,frontend cycles idle
+1674139,,instructions:u,7173017,100.00,0.71,insn per cycle
+,,,,,4.13,stalled cycles per insn
+232010,,branches:u,7173017,100.00,34.382,M/sec
+9750,,branch-misses:u,7173017,100.00,4.20,of all branches
+6.647485,,task-clock:u,6647485,100.00,1.466,CPUs utilized
+0,,context-switches:u,6647485,100.00,0.000,K/sec
+0,,cpu-migrations:u,6647485,100.00,0.000,K/sec
+131,,page-faults:u,6647485,100.00,0.020,M/sec
+2485737,,cycles:u,7065942,100.00,0.374,GHz
+6773715,,stalled-cycles-frontend:u,7065942,100.00,272.50,frontend cycles idle
+1684028,,instructions:u,7065942,100.00,0.68,insn per cycle
+,,,,,4.02,stalled cycles per insn
+233677,,branches:u,7065942,100.00,35.153,M/sec
+9746,,branch-misses:u,7065942,100.00,4.17,of all branches
+6.612368,,task-clock:u,6612368,100.00,1.478,CPUs utilized
+0,,context-switches:u,6612368,100.00,0.000,K/sec
+0,,cpu-migrations:u,6612368,100.00,0.000,K/sec
+131,,page-faults:u,6612368,100.00,0.020,M/sec
+2446214,,cycles:u,6956271,100.00,0.370,GHz
+6792929,,stalled-cycles-frontend:u,6956271,100.00,277.69,frontend cycles idle
+1679118,,instructions:u,6956271,100.00,0.69,insn per cycle
+,,,,,4.05,stalled cycles per insn
+232850,,branches:u,6956271,100.00,35.214,M/sec
+10240,,branch-misses:u,6956271,100.00,4.40,of all branches
+6.214352,,task-clock:u,6214352,100.00,1.475,CPUs utilized
+0,,context-switches:u,6214352,100.00,0.000,K/sec
+0,,cpu-migrations:u,6214352,100.00,0.000,K/sec
+132,,page-faults:u,6214352,100.00,0.021,M/sec
+2388131,,cycles:u,6616550,100.00,0.384,GHz
+6276250,,stalled-cycles-frontend:u,6616550,100.00,262.81,frontend cycles idle
+1682115,,instructions:u,6616550,100.00,0.70,insn per cycle
+,,,,,3.73,stalled cycles per insn
+233379,,branches:u,6616550,100.00,37.555,M/sec
+9973,,branch-misses:u,6616550,100.00,4.27,of all branches
+5.830012,,task-clock:u,5830012,100.00,1.505,CPUs utilized
+0,,context-switches:u,5830012,100.00,0.000,K/sec
+0,,cpu-migrations:u,5830012,100.00,0.000,K/sec
+132,,page-faults:u,5830012,100.00,0.023,M/sec
+2308376,,cycles:u,6171290,100.00,0.396,GHz
+5890660,,stalled-cycles-frontend:u,6171290,100.00,255.19,frontend cycles idle
+1674091,,instructions:u,6171290,100.00,0.73,insn per cycle
+,,,,,3.52,stalled cycles per insn
+232004,,branches:u,6171290,100.00,39.795,M/sec
+9037,,branch-misses:u,6171290,100.00,3.90,of all branches
+6.524222,,task-clock:u,6524222,100.00,1.574,CPUs utilized
+0,,context-switches:u,6524222,100.00,0.000,K/sec
+0,,cpu-migrations:u,6524222,100.00,0.000,K/sec
+134,,page-faults:u,6524222,100.00,0.021,M/sec
+2433244,,cycles:u,7004701,100.00,0.373,GHz
+6567504,,stalled-cycles-frontend:u,7004701,100.00,269.91,frontend cycles idle
+1674621,,instructions:u,7004701,100.00,0.69,insn per cycle
+,,,,,3.92,stalled cycles per insn
+232115,,branches:u,7004701,100.00,35.577,M/sec
+11113,,branch-misses:u,7004701,100.00,4.79,of all branches
+6.139978,,task-clock:u,6139978,100.00,1.528,CPUs utilized
+0,,context-switches:u,6139978,100.00,0.000,K/sec
+0,,cpu-migrations:u,6139978,100.00,0.000,K/sec
+131,,page-faults:u,6139978,100.00,0.021,M/sec
+2339903,,cycles:u,6499904,100.00,0.381,GHz
+6243183,,stalled-cycles-frontend:u,6499904,100.00,266.81,frontend cycles idle
+1678088,,instructions:u,6499904,100.00,0.72,insn per cycle
+,,,,,3.72,stalled cycles per insn
+232687,,branches:u,6499904,100.00,37.897,M/sec
+9890,,branch-misses:u,6499904,100.00,4.25,of all branches
+6.055638,,task-clock:u,6055638,100.00,1.479,CPUs utilized
+0,,context-switches:u,6055638,100.00,0.000,K/sec
+0,,cpu-migrations:u,6055638,100.00,0.000,K/sec
+131,,page-faults:u,6055638,100.00,0.022,M/sec
+2222800,,cycles:u,6423434,100.00,0.367,GHz
+6106010,,stalled-cycles-frontend:u,6423434,100.00,274.70,frontend cycles idle
+1675932,,instructions:u,6423434,100.00,0.75,insn per cycle
+,,,,,3.64,stalled cycles per insn
+232287,,branches:u,6423434,100.00,38.359,M/sec
+9589,,branch-misses:u,6423434,100.00,4.13,of all branches
+6.256162,,task-clock:u,6256162,100.00,1.567,CPUs utilized
+0,,context-switches:u,6256162,100.00,0.000,K/sec
+0,,cpu-migrations:u,6256162,100.00,0.000,K/sec
+134,,page-faults:u,6256162,100.00,0.021,M/sec
+2333993,,cycles:u,6613132,100.00,0.373,GHz
+6358654,,stalled-cycles-frontend:u,6613132,100.00,272.44,frontend cycles idle
+1676261,,instructions:u,6613132,100.00,0.72,insn per cycle
+,,,,,3.79,stalled cycles per insn
+232374,,branches:u,6613132,100.00,37.143,M/sec
+9683,,branch-misses:u,6613132,100.00,4.17,of all branches
+10.226233,,task-clock:u,10226233,100.00,2.259,CPUs utilized
+0,,context-switches:u,10226233,100.00,0.000,K/sec
+0,,cpu-migrations:u,10226233,100.00,0.000,K/sec
+141,,page-faults:u,10226233,100.00,0.014,M/sec
+5972347,,cycles:u,10812377,100.00,0.584,GHz
+9915030,,stalled-cycles-frontend:u,10812377,100.00,166.02,frontend cycles idle
+4945335,,instructions:u,10812377,100.00,0.83,insn per cycle
+,,,,,2.00,stalled cycles per insn
+551483,,branches:u,10812377,100.00,53.928,M/sec
+10830,,branch-misses:u,10812377,100.00,1.96,of all branches
+10.510490,,task-clock:u,10510490,100.00,2.082,CPUs utilized
+0,,context-switches:u,10510490,100.00,0.000,K/sec
+0,,cpu-migrations:u,10510490,100.00,0.000,K/sec
+139,,page-faults:u,10510490,100.00,0.013,M/sec
+6114370,,cycles:u,11105215,100.00,0.582,GHz
+10223297,,stalled-cycles-frontend:u,11105215,100.00,167.20,frontend cycles idle
+4951239,,instructions:u,11105215,100.00,0.81,insn per cycle
+,,,,,2.06,stalled cycles per insn
+552471,,branches:u,11105215,100.00,52.564,M/sec
+12620,,branch-misses:u,11105215,100.00,2.28,of all branches
+10.043058,,task-clock:u,10043058,100.00,2.271,CPUs utilized
+0,,context-switches:u,10043058,100.00,0.000,K/sec
+0,,cpu-migrations:u,10043058,100.00,0.000,K/sec
+139,,page-faults:u,10043058,100.00,0.014,M/sec
+6199692,,cycles:u,10616312,100.00,0.617,GHz
+9731585,,stalled-cycles-frontend:u,10616312,100.00,156.97,frontend cycles idle
+4936357,,instructions:u,10616312,100.00,0.80,insn per cycle
+,,,,,1.97,stalled cycles per insn
+549925,,branches:u,10616312,100.00,54.757,M/sec
+11728,,branch-misses:u,10616312,100.00,2.13,of all branches
+9.340583,,task-clock:u,9340583,100.00,1.857,CPUs utilized
+0,,context-switches:u,9340583,100.00,0.000,K/sec
+0,,cpu-migrations:u,9340583,100.00,0.000,K/sec
+142,,page-faults:u,9340583,100.00,0.015,M/sec
+5911212,,cycles:u,9692342,100.00,0.633,GHz
+9043698,,stalled-cycles-frontend:u,9692342,100.00,152.99,frontend cycles idle
+4964304,,instructions:u,9692342,100.00,0.84,insn per cycle
+,,,,,1.82,stalled cycles per insn
+554730,,branches:u,9692342,100.00,59.389,M/sec
+10786,,branch-misses:u,9692342,100.00,1.94,of all branches
+10.216093,,task-clock:u,10216093,100.00,2.029,CPUs utilized
+0,,context-switches:u,10216093,100.00,0.000,K/sec
+0,,cpu-migrations:u,10216093,100.00,0.000,K/sec
+139,,page-faults:u,10216093,100.00,0.014,M/sec
+5982427,,cycles:u,10768021,100.00,0.586,GHz
+10024258,,stalled-cycles-frontend:u,10768021,100.00,167.56,frontend cycles idle
+4925103,,instructions:u,10768021,100.00,0.82,insn per cycle
+,,,,,2.04,stalled cycles per insn
+548000,,branches:u,10768021,100.00,53.641,M/sec
+10713,,branch-misses:u,10768021,100.00,1.95,of all branches
+10.098256,,task-clock:u,10098256,100.00,2.020,CPUs utilized
+0,,context-switches:u,10098256,100.00,0.000,K/sec
+0,,cpu-migrations:u,10098256,100.00,0.000,K/sec
+142,,page-faults:u,10098256,100.00,0.014,M/sec
+6069539,,cycles:u,10650925,100.00,0.601,GHz
+9845183,,stalled-cycles-frontend:u,10650925,100.00,162.21,frontend cycles idle
+4961475,,instructions:u,10650925,100.00,0.82,insn per cycle
+,,,,,1.98,stalled cycles per insn
+554264,,branches:u,10650925,100.00,54.887,M/sec
+10577,,branch-misses:u,10650925,100.00,1.91,of all branches
+10.385971,,task-clock:u,10385971,100.00,2.147,CPUs utilized
+0,,context-switches:u,10385971,100.00,0.000,K/sec
+0,,cpu-migrations:u,10385971,100.00,0.000,K/sec
+140,,page-faults:u,10385971,100.00,0.013,M/sec
+6336863,,cycles:u,10798294,100.00,0.610,GHz
+10286152,,stalled-cycles-frontend:u,10798294,100.00,162.32,frontend cycles idle
+4917182,,instructions:u,10798294,100.00,0.78,insn per cycle
+,,,,,2.09,stalled cycles per insn
+546643,,branches:u,10798294,100.00,52.633,M/sec
+11812,,branch-misses:u,10798294,100.00,2.16,of all branches
+9.855701,,task-clock:u,9855701,100.00,2.036,CPUs utilized
+0,,context-switches:u,9855701,100.00,0.000,K/sec
+0,,cpu-migrations:u,9855701,100.00,0.000,K/sec
+140,,page-faults:u,9855701,100.00,0.014,M/sec
+5901550,,cycles:u,10250461,100.00,0.599,GHz
+9635662,,stalled-cycles-frontend:u,10250461,100.00,163.27,frontend cycles idle
+4897108,,instructions:u,10250461,100.00,0.83,insn per cycle
+,,,,,1.97,stalled cycles per insn
+543185,,branches:u,10250461,100.00,55.114,M/sec
+11766,,branch-misses:u,10250461,100.00,2.17,of all branches
+10.321387,,task-clock:u,10321387,100.00,2.295,CPUs utilized
+0,,context-switches:u,10321387,100.00,0.000,K/sec
+0,,cpu-migrations:u,10321387,100.00,0.000,K/sec
+141,,page-faults:u,10321387,100.00,0.014,M/sec
+6274715,,cycles:u,10794932,100.00,0.608,GHz
+10088578,,stalled-cycles-frontend:u,10794932,100.00,160.78,frontend cycles idle
+4917250,,instructions:u,10794932,100.00,0.78,insn per cycle
+,,,,,2.05,stalled cycles per insn
+546662,,branches:u,10794932,100.00,52.964,M/sec
+11282,,branch-misses:u,10794932,100.00,2.06,of all branches
+9.625449,,task-clock:u,9625449,100.00,2.201,CPUs utilized
+0,,context-switches:u,9625449,100.00,0.000,K/sec
+0,,cpu-migrations:u,9625449,100.00,0.000,K/sec
+139,,page-faults:u,9625449,100.00,0.014,M/sec
+6096340,,cycles:u,10040925,100.00,0.633,GHz
+9240607,,stalled-cycles-frontend:u,10040925,100.00,151.58,frontend cycles idle
+4941394,,instructions:u,10040925,100.00,0.81,insn per cycle
+,,,,,1.87,stalled cycles per insn
+550804,,branches:u,10040925,100.00,57.224,M/sec
+10817,,branch-misses:u,10040925,100.00,1.96,of all branches
+21.925212,,task-clock:u,21925212,100.00,2.898,CPUs utilized
+0,,context-switches:u,21925212,100.00,0.000,K/sec
+0,,cpu-migrations:u,21925212,100.00,0.000,K/sec
+171,,page-faults:u,21925212,100.00,0.008,M/sec
+19790225,,cycles:u,22455150,100.00,0.903,GHz
+20126559,,stalled-cycles-frontend:u,22455150,100.00,101.70,frontend cycles idle
+17738264,,instructions:u,22455150,100.00,0.90,insn per cycle
+,,,,,1.13,stalled cycles per insn
+1780470,,branches:u,22455150,100.00,81.207,M/sec
+14882,,branch-misses:u,22455150,100.00,0.84,of all branches
+21.976375,,task-clock:u,21976375,100.00,3.207,CPUs utilized
+0,,context-switches:u,21976375,100.00,0.000,K/sec
+0,,cpu-migrations:u,21976375,100.00,0.000,K/sec
+171,,page-faults:u,21976375,100.00,0.008,M/sec
+21106021,,cycles:u,22240741,100.00,0.960,GHz
+20425219,,stalled-cycles-frontend:u,22240741,100.00,96.77,frontend cycles idle
+17740874,,instructions:u,22240741,100.00,0.84,insn per cycle
+,,,,,1.15,stalled cycles per insn
+1780890,,branches:u,22240741,100.00,81.037,M/sec
+14132,,branch-misses:u,22240741,100.00,0.79,of all branches
+21.743788,,task-clock:u,21743788,100.00,3.157,CPUs utilized
+0,,context-switches:u,21743788,100.00,0.000,K/sec
+0,,cpu-migrations:u,21743788,100.00,0.000,K/sec
+170,,page-faults:u,21743788,100.00,0.008,M/sec
+20421241,,cycles:u,21963998,100.00,0.939,GHz
+20154696,,stalled-cycles-frontend:u,21963998,100.00,98.69,frontend cycles idle
+17739082,,instructions:u,21963998,100.00,0.87,insn per cycle
+,,,,,1.14,stalled cycles per insn
+1780597,,branches:u,21963998,100.00,81.890,M/sec
+14594,,branch-misses:u,21963998,100.00,0.82,of all branches
+22.350576,,task-clock:u,22350576,100.00,3.326,CPUs utilized
+0,,context-switches:u,22350576,100.00,0.000,K/sec
+0,,cpu-migrations:u,22350576,100.00,0.000,K/sec
+170,,page-faults:u,22350576,100.00,0.008,M/sec
+20184356,,cycles:u,22605937,100.00,0.903,GHz
+20874661,,stalled-cycles-frontend:u,22605937,100.00,103.42,frontend cycles idle
+17740082,,instructions:u,22605937,100.00,0.88,insn per cycle
+,,,,,1.18,stalled cycles per insn
+1780757,,branches:u,22605937,100.00,79.674,M/sec
+14298,,branch-misses:u,22605937,100.00,0.80,of all branches
+22.564129,,task-clock:u,22564129,100.00,2.837,CPUs utilized
+0,,context-switches:u,22564129,100.00,0.000,K/sec
+0,,cpu-migrations:u,22564129,100.00,0.000,K/sec
+170,,page-faults:u,22564129,100.00,0.008,M/sec
+20832255,,cycles:u,23062396,100.00,0.923,GHz
+20963167,,stalled-cycles-frontend:u,23062396,100.00,100.63,frontend cycles idle
+17738100,,instructions:u,23062396,100.00,0.85,insn per cycle
+,,,,,1.18,stalled cycles per insn
+1780443,,branches:u,23062396,100.00,78.906,M/sec
+15894,,branch-misses:u,23062396,100.00,0.89,of all branches
+22.415558,,task-clock:u,22415558,100.00,3.540,CPUs utilized
+0,,context-switches:u,22415558,100.00,0.000,K/sec
+0,,cpu-migrations:u,22415558,100.00,0.000,K/sec
+170,,page-faults:u,22415558,100.00,0.008,M/sec
+20690289,,cycles:u,22899219,100.00,0.923,GHz
+20863728,,stalled-cycles-frontend:u,22899219,100.00,100.84,frontend cycles idle
+17738195,,instructions:u,22899219,100.00,0.86,insn per cycle
+,,,,,1.18,stalled cycles per insn
+1780463,,branches:u,22899219,100.00,79.430,M/sec
+13862,,branch-misses:u,22899219,100.00,0.78,of all branches
+22.354485,,task-clock:u,22354485,100.00,3.047,CPUs utilized
+0,,context-switches:u,22354485,100.00,0.000,K/sec
+0,,cpu-migrations:u,22354485,100.00,0.000,K/sec
+171,,page-faults:u,22354485,100.00,0.008,M/sec
+20751881,,cycles:u,22817890,100.00,0.928,GHz
+20798863,,stalled-cycles-frontend:u,22817890,100.00,100.23,frontend cycles idle
+17738181,,instructions:u,22817890,100.00,0.85,insn per cycle
+,,,,,1.17,stalled cycles per insn
+1780463,,branches:u,22817890,100.00,79.647,M/sec
+13671,,branch-misses:u,22817890,100.00,0.77,of all branches
+22.306346,,task-clock:u,22306346,100.00,2.689,CPUs utilized
+0,,context-switches:u,22306346,100.00,0.000,K/sec
+0,,cpu-migrations:u,22306346,100.00,0.000,K/sec
+170,,page-faults:u,22306346,100.00,0.008,M/sec
+20713019,,cycles:u,22582796,100.00,0.929,GHz
+20765995,,stalled-cycles-frontend:u,22582796,100.00,100.26,frontend cycles idle
+17734985,,instructions:u,22582796,100.00,0.86,insn per cycle
+,,,,,1.17,stalled cycles per insn
+1779902,,branches:u,22582796,100.00,79.794,M/sec
+15362,,branch-misses:u,22582796,100.00,0.86,of all branches
+21.705803,,task-clock:u,21705803,100.00,2.898,CPUs utilized
+0,,context-switches:u,21705803,100.00,0.000,K/sec
+0,,cpu-migrations:u,21705803,100.00,0.000,K/sec
+170,,page-faults:u,21705803,100.00,0.008,M/sec
+20342701,,cycles:u,21956506,100.00,0.937,GHz
+20088502,,stalled-cycles-frontend:u,21956506,100.00,98.75,frontend cycles idle
+17738114,,instructions:u,21956506,100.00,0.87,insn per cycle
+,,,,,1.13,stalled cycles per insn
+1780448,,branches:u,21956506,100.00,82.026,M/sec
+13710,,branch-misses:u,21956506,100.00,0.77,of all branches
+21.930510,,task-clock:u,21930510,100.00,2.983,CPUs utilized
+0,,context-switches:u,21930510,100.00,0.000,K/sec
+0,,cpu-migrations:u,21930510,100.00,0.000,K/sec
+170,,page-faults:u,21930510,100.00,0.008,M/sec
+20575618,,cycles:u,22159803,100.00,0.938,GHz
+20312609,,stalled-cycles-frontend:u,22159803,100.00,98.72,frontend cycles idle
+17738288,,instructions:u,22159803,100.00,0.86,insn per cycle
+,,,,,1.15,stalled cycles per insn
+1780481,,branches:u,22159803,100.00,81.187,M/sec
+14760,,branch-misses:u,22159803,100.00,0.83,of all branches
+72.550195,,task-clock:u,72550195,100.00,4.786,CPUs utilized
+0,,context-switches:u,72550195,100.00,0.000,K/sec
+0,,cpu-migrations:u,72550195,100.00,0.000,K/sec
+291,,page-faults:u,72550195,100.00,0.004,M/sec
+79417059,,cycles:u,72914413,100.00,1.095,GHz
+65627182,,stalled-cycles-frontend:u,72914413,100.00,82.64,frontend cycles idle
+68696070,,instructions:u,72914413,100.00,0.87,insn per cycle
+,,,,,0.96,stalled cycles per insn
+6665254,,branches:u,72914413,100.00,91.871,M/sec
+26136,,branch-misses:u,72914413,100.00,0.39,of all branches
+73.069595,,task-clock:u,73069595,100.00,4.741,CPUs utilized
+0,,context-switches:u,73069595,100.00,0.000,K/sec
+0,,cpu-migrations:u,73069595,100.00,0.000,K/sec
+293,,page-faults:u,73069595,100.00,0.004,M/sec
+80175881,,cycles:u,73392575,100.00,1.097,GHz
+66156381,,stalled-cycles-frontend:u,73392575,100.00,82.51,frontend cycles idle
+68765470,,instructions:u,73392575,100.00,0.86,insn per cycle
+,,,,,0.96,stalled cycles per insn
+6677157,,branches:u,73392575,100.00,91.381,M/sec
+26096,,branch-misses:u,73392575,100.00,0.39,of all branches
+71.784229,,task-clock:u,71784229,100.00,4.353,CPUs utilized
+0,,context-switches:u,71784229,100.00,0.000,K/sec
+0,,cpu-migrations:u,71784229,100.00,0.000,K/sec
+291,,page-faults:u,71784229,100.00,0.004,M/sec
+78181471,,cycles:u,72091381,100.00,1.089,GHz
+64674288,,stalled-cycles-frontend:u,72091381,100.00,82.72,frontend cycles idle
+68768256,,instructions:u,72091381,100.00,0.88,insn per cycle
+,,,,,0.94,stalled cycles per insn
+6677608,,branches:u,72091381,100.00,93.023,M/sec
+28289,,branch-misses:u,72091381,100.00,0.42,of all branches
+73.947786,,task-clock:u,73947786,100.00,4.687,CPUs utilized
+0,,context-switches:u,73947786,100.00,0.000,K/sec
+0,,cpu-migrations:u,73947786,100.00,0.000,K/sec
+291,,page-faults:u,73947786,100.00,0.004,M/sec
+81172179,,cycles:u,74268591,100.00,1.098,GHz
+67038590,,stalled-cycles-frontend:u,74268591,100.00,82.59,frontend cycles idle
+68727998,,instructions:u,74268591,100.00,0.85,insn per cycle
+,,,,,0.98,stalled cycles per insn
+6670650,,branches:u,74268591,100.00,90.208,M/sec
+27030,,branch-misses:u,74268591,100.00,0.41,of all branches
+72.555075,,task-clock:u,72555075,100.00,4.685,CPUs utilized
+0,,context-switches:u,72555075,100.00,0.000,K/sec
+0,,cpu-migrations:u,72555075,100.00,0.000,K/sec
+292,,page-faults:u,72555075,100.00,0.004,M/sec
+80186787,,cycles:u,72937333,100.00,1.105,GHz
+65590776,,stalled-cycles-frontend:u,72937333,100.00,81.80,frontend cycles idle
+68765409,,instructions:u,72937333,100.00,0.86,insn per cycle
+,,,,,0.95,stalled cycles per insn
+6677143,,branches:u,72937333,100.00,92.029,M/sec
+26032,,branch-misses:u,72937333,100.00,0.39,of all branches
+71.588441,,task-clock:u,71588441,100.00,4.339,CPUs utilized
+0,,context-switches:u,71588441,100.00,0.000,K/sec
+0,,cpu-migrations:u,71588441,100.00,0.000,K/sec
+292,,page-faults:u,71588441,100.00,0.004,M/sec
+78387110,,cycles:u,71938022,100.00,1.095,GHz
+64398429,,stalled-cycles-frontend:u,71938022,100.00,82.15,frontend cycles idle
+68765568,,instructions:u,71938022,100.00,0.88,insn per cycle
+,,,,,0.94,stalled cycles per insn
+6677172,,branches:u,71938022,100.00,93.272,M/sec
+26864,,branch-misses:u,71938022,100.00,0.40,of all branches
+72.347537,,task-clock:u,72347537,100.00,3.985,CPUs utilized
+0,,context-switches:u,72347537,100.00,0.000,K/sec
+0,,cpu-migrations:u,72347537,100.00,0.000,K/sec
+293,,page-faults:u,72347537,100.00,0.004,M/sec
+79134015,,cycles:u,72890956,100.00,1.094,GHz
+65144352,,stalled-cycles-frontend:u,72890956,100.00,82.32,frontend cycles idle
+68749310,,instructions:u,72890956,100.00,0.87,insn per cycle
+,,,,,0.95,stalled cycles per insn
+6674377,,branches:u,72890956,100.00,92.254,M/sec
+28088,,branch-misses:u,72890956,100.00,0.42,of all branches
+71.020762,,task-clock:u,71020762,100.00,3.554,CPUs utilized
+0,,context-switches:u,71020762,100.00,0.000,K/sec
+0,,cpu-migrations:u,71020762,100.00,0.000,K/sec
+290,,page-faults:u,71020762,100.00,0.004,M/sec
+78000605,,cycles:u,71405510,100.00,1.098,GHz
+63664007,,stalled-cycles-frontend:u,71405510,100.00,81.62,frontend cycles idle
+68761319,,instructions:u,71405510,100.00,0.88,insn per cycle
+,,,,,0.93,stalled cycles per insn
+6676429,,branches:u,71405510,100.00,94.007,M/sec
+26901,,branch-misses:u,71405510,100.00,0.40,of all branches
+72.405760,,task-clock:u,72405760,100.00,4.701,CPUs utilized
+0,,context-switches:u,72405760,100.00,0.000,K/sec
+0,,cpu-migrations:u,72405760,100.00,0.000,K/sec
+290,,page-faults:u,72405760,100.00,0.004,M/sec
+78727370,,cycles:u,72811763,100.00,1.087,GHz
+65323588,,stalled-cycles-frontend:u,72811763,100.00,82.97,frontend cycles idle
+68718549,,instructions:u,72811763,100.00,0.87,insn per cycle
+,,,,,0.95,stalled cycles per insn
+6669129,,branches:u,72811763,100.00,92.108,M/sec
+26899,,branch-misses:u,72811763,100.00,0.40,of all branches
+72.501996,,task-clock:u,72501996,100.00,4.400,CPUs utilized
+0,,context-switches:u,72501996,100.00,0.000,K/sec
+0,,cpu-migrations:u,72501996,100.00,0.000,K/sec
+290,,page-faults:u,72501996,100.00,0.004,M/sec
+79135445,,cycles:u,72966531,100.00,1.091,GHz
+65456300,,stalled-cycles-frontend:u,72966531,100.00,82.71,frontend cycles idle
+68724810,,instructions:u,72966531,100.00,0.87,insn per cycle
+,,,,,0.95,stalled cycles per insn
+6670167,,branches:u,72966531,100.00,92.000,M/sec
+26528,,branch-misses:u,72966531,100.00,0.40,of all branches
