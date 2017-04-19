@@ -44,10 +44,10 @@ for THREADS in ${NTHREADS[@]}; do
 
     SIZE=$INITIAL_SIZE
 
-    mv *.log results/mandelbrot_omp
-    rm output.ppm
-
 done
+
+mv *.log results/mandelbrot_omp
+rm output.ppm
 
 #MANDELBROT: Pthreads
 mkdir results/mandelbrot_pth
@@ -66,7 +66,7 @@ for THREADS in ${NTHREADS[@]}; do
 
     SIZE=$INITIAL_SIZE
 
-    mv *.log results/mandelbrot_pth
-    rm output.ppm
-
 done
+
+mv *.log results/mandelbrot_pth
+rm output.ppm
