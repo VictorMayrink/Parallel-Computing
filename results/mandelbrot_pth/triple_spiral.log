@@ -1,400 +1,800 @@
-6.741395,,task-clock:u,6741395,100.00,1.365,CPUs utilized
-0,,context-switches:u,6741395,100.00,0.000,K/sec
-0,,cpu-migrations:u,6741395,100.00,0.000,K/sec
-132,,page-faults:u,6741395,100.00,0.020,M/sec
-2638496,,cycles:u,7157870,100.00,0.391,GHz
-6843353,,stalled-cycles-frontend:u,7157870,100.00,259.37,frontend cycles idle
-1889789,,instructions:u,7157870,100.00,0.72,insn per cycle
-,,,,,3.62,stalled cycles per insn
-257103,,branches:u,7157870,100.00,38.138,M/sec
-10139,,branch-misses:u,7157870,100.00,3.94,of all branches
-6.606375,,task-clock:u,6606375,100.00,1.518,CPUs utilized
-0,,context-switches:u,6606375,100.00,0.000,K/sec
-0,,cpu-migrations:u,6606375,100.00,0.000,K/sec
-133,,page-faults:u,6606375,100.00,0.020,M/sec
-2593291,,cycles:u,6926690,100.00,0.393,GHz
-6739646,,stalled-cycles-frontend:u,6926690,100.00,259.89,frontend cycles idle
-1833354,,instructions:u,6926690,100.00,0.71,insn per cycle
-,,,,,3.68,stalled cycles per insn
-247406,,branches:u,6926690,100.00,37.450,M/sec
-9299,,branch-misses:u,6926690,100.00,3.76,of all branches
-6.412779,,task-clock:u,6412779,100.00,1.162,CPUs utilized
-0,,context-switches:u,6412779,100.00,0.000,K/sec
-0,,cpu-migrations:u,6412779,100.00,0.000,K/sec
-133,,page-faults:u,6412779,100.00,0.021,M/sec
-2552587,,cycles:u,6791932,100.00,0.398,GHz
-6500440,,stalled-cycles-frontend:u,6791932,100.00,254.66,frontend cycles idle
-1825263,,instructions:u,6791932,100.00,0.72,insn per cycle
-,,,,,3.56,stalled cycles per insn
-246006,,branches:u,6791932,100.00,38.362,M/sec
-9140,,branch-misses:u,6791932,100.00,3.72,of all branches
-7.023428,,task-clock:u,7023428,100.00,1.407,CPUs utilized
-0,,context-switches:u,7023428,100.00,0.000,K/sec
-0,,cpu-migrations:u,7023428,100.00,0.000,K/sec
-132,,page-faults:u,7023428,100.00,0.019,M/sec
-2638331,,cycles:u,7425899,100.00,0.376,GHz
-7251901,,stalled-cycles-frontend:u,7425899,100.00,274.87,frontend cycles idle
-1809180,,instructions:u,7425899,100.00,0.69,insn per cycle
-,,,,,4.01,stalled cycles per insn
-243245,,branches:u,7425899,100.00,34.633,M/sec
-10429,,branch-misses:u,7425899,100.00,4.29,of all branches
-7.323640,,task-clock:u,7323640,100.00,1.348,CPUs utilized
-0,,context-switches:u,7323640,100.00,0.000,K/sec
-0,,cpu-migrations:u,7323640,100.00,0.000,K/sec
-132,,page-faults:u,7323640,100.00,0.018,M/sec
-2613666,,cycles:u,7813904,100.00,0.357,GHz
-7484700,,stalled-cycles-frontend:u,7813904,100.00,286.37,frontend cycles idle
-1825472,,instructions:u,7813904,100.00,0.70,insn per cycle
-,,,,,4.10,stalled cycles per insn
-246051,,branches:u,7813904,100.00,33.597,M/sec
-9856,,branch-misses:u,7813904,100.00,4.01,of all branches
-6.992258,,task-clock:u,6992258,100.00,1.614,CPUs utilized
-0,,context-switches:u,6992258,100.00,0.000,K/sec
-0,,cpu-migrations:u,6992258,100.00,0.000,K/sec
-132,,page-faults:u,6992258,100.00,0.019,M/sec
-2615581,,cycles:u,7492425,100.00,0.374,GHz
-7147916,,stalled-cycles-frontend:u,7492425,100.00,273.28,frontend cycles idle
-1829487,,instructions:u,7492425,100.00,0.70,insn per cycle
-,,,,,3.91,stalled cycles per insn
-246730,,branches:u,7492425,100.00,35.286,M/sec
-10082,,branch-misses:u,7492425,100.00,4.09,of all branches
-6.169195,,task-clock:u,6169195,100.00,1.505,CPUs utilized
-0,,context-switches:u,6169195,100.00,0.000,K/sec
-0,,cpu-migrations:u,6169195,100.00,0.000,K/sec
-132,,page-faults:u,6169195,100.00,0.021,M/sec
-2472473,,cycles:u,6493562,100.00,0.401,GHz
-6250081,,stalled-cycles-frontend:u,6493562,100.00,252.79,frontend cycles idle
-1821460,,instructions:u,6493562,100.00,0.74,insn per cycle
-,,,,,3.43,stalled cycles per insn
-245364,,branches:u,6493562,100.00,39.772,M/sec
-9440,,branch-misses:u,6493562,100.00,3.85,of all branches
-6.703453,,task-clock:u,6703453,100.00,1.641,CPUs utilized
-0,,context-switches:u,6703453,100.00,0.000,K/sec
-0,,cpu-migrations:u,6703453,100.00,0.000,K/sec
-133,,page-faults:u,6703453,100.00,0.020,M/sec
-2646213,,cycles:u,7122528,100.00,0.395,GHz
-6806286,,stalled-cycles-frontend:u,7122528,100.00,257.21,frontend cycles idle
-1825761,,instructions:u,7122528,100.00,0.69,insn per cycle
-,,,,,3.73,stalled cycles per insn
-246112,,branches:u,7122528,100.00,36.714,M/sec
-10052,,branch-misses:u,7122528,100.00,4.08,of all branches
-6.931336,,task-clock:u,6931336,100.00,1.535,CPUs utilized
-0,,context-switches:u,6931336,100.00,0.000,K/sec
-0,,cpu-migrations:u,6931336,100.00,0.000,K/sec
-136,,page-faults:u,6931336,100.00,0.020,M/sec
-2625691,,cycles:u,7465921,100.00,0.379,GHz
-7016564,,stalled-cycles-frontend:u,7465921,100.00,267.23,frontend cycles idle
-1823326,,instructions:u,7465921,100.00,0.69,insn per cycle
-,,,,,3.85,stalled cycles per insn
-245663,,branches:u,7465921,100.00,35.442,M/sec
-10149,,branch-misses:u,7465921,100.00,4.13,of all branches
-7.002409,,task-clock:u,7002409,100.00,1.565,CPUs utilized
-0,,context-switches:u,7002409,100.00,0.000,K/sec
-0,,cpu-migrations:u,7002409,100.00,0.000,K/sec
-133,,page-faults:u,7002409,100.00,0.019,M/sec
-2577561,,cycles:u,7439978,100.00,0.368,GHz
-7183804,,stalled-cycles-frontend:u,7439978,100.00,278.71,frontend cycles idle
-1839452,,instructions:u,7439978,100.00,0.71,insn per cycle
-,,,,,3.91,stalled cycles per insn
-248449,,branches:u,7439978,100.00,35.481,M/sec
-10291,,branch-misses:u,7439978,100.00,4.14,of all branches
-10.863018,,task-clock:u,10863018,100.00,2.002,CPUs utilized
-0,,context-switches:u,10863018,100.00,0.000,K/sec
-0,,cpu-migrations:u,10863018,100.00,0.000,K/sec
-141,,page-faults:u,10863018,100.00,0.013,M/sec
-6638602,,cycles:u,11394818,100.00,0.611,GHz
-10628025,,stalled-cycles-frontend:u,11394818,100.00,160.09,frontend cycles idle
-5495006,,instructions:u,11394818,100.00,0.83,insn per cycle
-,,,,,1.93,stalled cycles per insn
-601115,,branches:u,11394818,100.00,55.336,M/sec
-11510,,branch-misses:u,11394818,100.00,1.91,of all branches
-10.518471,,task-clock:u,10518471,100.00,2.484,CPUs utilized
-0,,context-switches:u,10518471,100.00,0.000,K/sec
-0,,cpu-migrations:u,10518471,100.00,0.000,K/sec
-143,,page-faults:u,10518471,100.00,0.014,M/sec
-6898738,,cycles:u,11048475,100.00,0.656,GHz
-10226421,,stalled-cycles-frontend:u,11048475,100.00,148.24,frontend cycles idle
-5469935,,instructions:u,11048475,100.00,0.79,insn per cycle
-,,,,,1.87,stalled cycles per insn
-596786,,branches:u,11048475,100.00,56.737,M/sec
-10761,,branch-misses:u,11048475,100.00,1.80,of all branches
-10.697184,,task-clock:u,10697184,100.00,2.225,CPUs utilized
-0,,context-switches:u,10697184,100.00,0.000,K/sec
-0,,cpu-migrations:u,10697184,100.00,0.000,K/sec
-140,,page-faults:u,10697184,100.00,0.013,M/sec
-6853122,,cycles:u,11148604,100.00,0.641,GHz
-10453625,,stalled-cycles-frontend:u,11148604,100.00,152.54,frontend cycles idle
-5479948,,instructions:u,11148604,100.00,0.80,insn per cycle
-,,,,,1.91,stalled cycles per insn
-598522,,branches:u,11148604,100.00,55.951,M/sec
-11947,,branch-misses:u,11148604,100.00,2.00,of all branches
-10.889710,,task-clock:u,10889710,100.00,2.287,CPUs utilized
-0,,context-switches:u,10889710,100.00,0.000,K/sec
-0,,cpu-migrations:u,10889710,100.00,0.000,K/sec
-139,,page-faults:u,10889710,100.00,0.013,M/sec
-6887263,,cycles:u,11315936,100.00,0.632,GHz
-10666542,,stalled-cycles-frontend:u,11315936,100.00,154.87,frontend cycles idle
-5458959,,instructions:u,11315936,100.00,0.79,insn per cycle
-,,,,,1.95,stalled cycles per insn
-594923,,branches:u,11315936,100.00,54.632,M/sec
-10912,,branch-misses:u,11315936,100.00,1.83,of all branches
-10.706910,,task-clock:u,10706910,100.00,2.246,CPUs utilized
-0,,context-switches:u,10706910,100.00,0.000,K/sec
-0,,cpu-migrations:u,10706910,100.00,0.000,K/sec
-140,,page-faults:u,10706910,100.00,0.013,M/sec
-6649726,,cycles:u,11181213,100.00,0.621,GHz
-10437504,,stalled-cycles-frontend:u,11181213,100.00,156.96,frontend cycles idle
-5471161,,instructions:u,11181213,100.00,0.82,insn per cycle
-,,,,,1.91,stalled cycles per insn
-597028,,branches:u,11181213,100.00,55.761,M/sec
-10263,,branch-misses:u,11181213,100.00,1.72,of all branches
-10.371078,,task-clock:u,10371078,100.00,1.963,CPUs utilized
-0,,context-switches:u,10371078,100.00,0.000,K/sec
-0,,cpu-migrations:u,10371078,100.00,0.000,K/sec
-141,,page-faults:u,10371078,100.00,0.014,M/sec
-6316527,,cycles:u,10818127,100.00,0.609,GHz
-10081740,,stalled-cycles-frontend:u,10818127,100.00,159.61,frontend cycles idle
-5495067,,instructions:u,10818127,100.00,0.87,insn per cycle
-,,,,,1.83,stalled cycles per insn
-601131,,branches:u,10818127,100.00,57.962,M/sec
-10462,,branch-misses:u,10818127,100.00,1.74,of all branches
-10.237410,,task-clock:u,10237410,100.00,2.085,CPUs utilized
-0,,context-switches:u,10237410,100.00,0.000,K/sec
-0,,cpu-migrations:u,10237410,100.00,0.000,K/sec
-140,,page-faults:u,10237410,100.00,0.014,M/sec
-6661671,,cycles:u,10636771,100.00,0.651,GHz
-9897799,,stalled-cycles-frontend:u,10636771,100.00,148.58,frontend cycles idle
-5483052,,instructions:u,10636771,100.00,0.82,insn per cycle
-,,,,,1.81,stalled cycles per insn
-599067,,branches:u,10636771,100.00,58.517,M/sec
-11164,,branch-misses:u,10636771,100.00,1.86,of all branches
-11.262816,,task-clock:u,11262816,100.00,2.256,CPUs utilized
-0,,context-switches:u,11262816,100.00,0.000,K/sec
-0,,cpu-migrations:u,11262816,100.00,0.000,K/sec
-139,,page-faults:u,11262816,100.00,0.012,M/sec
-6759875,,cycles:u,11813224,100.00,0.600,GHz
-11027802,,stalled-cycles-frontend:u,11813224,100.00,163.14,frontend cycles idle
-5447072,,instructions:u,11813224,100.00,0.81,insn per cycle
-,,,,,2.02,stalled cycles per insn
-592881,,branches:u,11813224,100.00,52.641,M/sec
-11204,,branch-misses:u,11813224,100.00,1.89,of all branches
-11.166455,,task-clock:u,11166455,100.00,2.068,CPUs utilized
-0,,context-switches:u,11166455,100.00,0.000,K/sec
-0,,cpu-migrations:u,11166455,100.00,0.000,K/sec
-140,,page-faults:u,11166455,100.00,0.013,M/sec
-6705282,,cycles:u,11684219,100.00,0.600,GHz
-10997403,,stalled-cycles-frontend:u,11684219,100.00,164.01,frontend cycles idle
-5467141,,instructions:u,11684219,100.00,0.82,insn per cycle
-,,,,,2.01,stalled cycles per insn
-596336,,branches:u,11684219,100.00,53.404,M/sec
-11081,,branch-misses:u,11684219,100.00,1.86,of all branches
-10.456013,,task-clock:u,10456013,100.00,2.370,CPUs utilized
-0,,context-switches:u,10456013,100.00,0.000,K/sec
-0,,cpu-migrations:u,10456013,100.00,0.000,K/sec
-139,,page-faults:u,10456013,100.00,0.013,M/sec
-6704958,,cycles:u,10947199,100.00,0.641,GHz
-10154005,,stalled-cycles-frontend:u,10947199,100.00,151.44,frontend cycles idle
-5446688,,instructions:u,10947199,100.00,0.81,insn per cycle
-,,,,,1.86,stalled cycles per insn
-592810,,branches:u,10947199,100.00,56.696,M/sec
-11856,,branch-misses:u,10947199,100.00,2.00,of all branches
-24.444404,,task-clock:u,24444404,100.00,3.403,CPUs utilized
-0,,context-switches:u,24444404,100.00,0.000,K/sec
-0,,cpu-migrations:u,24444404,100.00,0.000,K/sec
-171,,page-faults:u,24444404,100.00,0.007,M/sec
-22969766,,cycles:u,24766872,100.00,0.940,GHz
-22722435,,stalled-cycles-frontend:u,24766872,100.00,98.92,frontend cycles idle
-19864632,,instructions:u,24766872,100.00,0.86,insn per cycle
-,,,,,1.14,stalled cycles per insn
-1965586,,branches:u,24766872,100.00,80.410,M/sec
-15961,,branch-misses:u,24766872,100.00,0.81,of all branches
-24.272309,,task-clock:u,24272309,100.00,3.510,CPUs utilized
-0,,context-switches:u,24272309,100.00,0.000,K/sec
-0,,cpu-migrations:u,24272309,100.00,0.000,K/sec
-171,,page-faults:u,24272309,100.00,0.007,M/sec
-23080308,,cycles:u,24667811,100.00,0.951,GHz
-22438340,,stalled-cycles-frontend:u,24667811,100.00,97.22,frontend cycles idle
-19882091,,instructions:u,24667811,100.00,0.86,insn per cycle
-,,,,,1.13,stalled cycles per insn
-1968666,,branches:u,24667811,100.00,81.107,M/sec
-15167,,branch-misses:u,24667811,100.00,0.77,of all branches
-24.185891,,task-clock:u,24185891,100.00,3.610,CPUs utilized
-0,,context-switches:u,24185891,100.00,0.000,K/sec
-0,,cpu-migrations:u,24185891,100.00,0.000,K/sec
-170,,page-faults:u,24185891,100.00,0.007,M/sec
-23280857,,cycles:u,24480007,100.00,0.963,GHz
-22435800,,stalled-cycles-frontend:u,24480007,100.00,96.37,frontend cycles idle
-19878051,,instructions:u,24480007,100.00,0.85,insn per cycle
-,,,,,1.13,stalled cycles per insn
-1967965,,branches:u,24480007,100.00,81.368,M/sec
-14507,,branch-misses:u,24480007,100.00,0.74,of all branches
-24.234976,,task-clock:u,24234976,100.00,3.678,CPUs utilized
-0,,context-switches:u,24234976,100.00,0.000,K/sec
-0,,cpu-migrations:u,24234976,100.00,0.000,K/sec
-169,,page-faults:u,24234976,100.00,0.007,M/sec
-23523058,,cycles:u,24441904,100.00,0.971,GHz
-22492713,,stalled-cycles-frontend:u,24441904,100.00,95.62,frontend cycles idle
-19883858,,instructions:u,24441904,100.00,0.85,insn per cycle
-,,,,,1.13,stalled cycles per insn
-1968933,,branches:u,24441904,100.00,81.243,M/sec
-13916,,branch-misses:u,24441904,100.00,0.71,of all branches
-24.068251,,task-clock:u,24068251,100.00,3.408,CPUs utilized
-0,,context-switches:u,24068251,100.00,0.000,K/sec
-0,,cpu-migrations:u,24068251,100.00,0.000,K/sec
-170,,page-faults:u,24068251,100.00,0.007,M/sec
-23329937,,cycles:u,24398905,100.00,0.969,GHz
-22247862,,stalled-cycles-frontend:u,24398905,100.00,95.36,frontend cycles idle
-19879232,,instructions:u,24398905,100.00,0.85,insn per cycle
-,,,,,1.12,stalled cycles per insn
-1968166,,branches:u,24398905,100.00,81.774,M/sec
-13871,,branch-misses:u,24398905,100.00,0.70,of all branches
-24.836829,,task-clock:u,24836829,100.00,3.058,CPUs utilized
-0,,context-switches:u,24836829,100.00,0.000,K/sec
-0,,cpu-migrations:u,24836829,100.00,0.000,K/sec
-169,,page-faults:u,24836829,100.00,0.007,M/sec
-23261667,,cycles:u,25279676,100.00,0.937,GHz
-23045934,,stalled-cycles-frontend:u,25279676,100.00,99.07,frontend cycles idle
-19882018,,instructions:u,25279676,100.00,0.85,insn per cycle
-,,,,,1.16,stalled cycles per insn
-1968643,,branches:u,25279676,100.00,79.263,M/sec
-14502,,branch-misses:u,25279676,100.00,0.74,of all branches
-24.696312,,task-clock:u,24696312,100.00,2.970,CPUs utilized
-0,,context-switches:u,24696312,100.00,0.000,K/sec
-0,,cpu-migrations:u,24696312,100.00,0.000,K/sec
-169,,page-faults:u,24696312,100.00,0.007,M/sec
-23573600,,cycles:u,25002436,100.00,0.955,GHz
-22854550,,stalled-cycles-frontend:u,25002436,100.00,96.95,frontend cycles idle
-19837521,,instructions:u,25002436,100.00,0.84,insn per cycle
-,,,,,1.15,stalled cycles per insn
-1960993,,branches:u,25002436,100.00,79.404,M/sec
-14368,,branch-misses:u,25002436,100.00,0.73,of all branches
-23.780198,,task-clock:u,23780198,100.00,2.954,CPUs utilized
-0,,context-switches:u,23780198,100.00,0.000,K/sec
-0,,cpu-migrations:u,23780198,100.00,0.000,K/sec
-169,,page-faults:u,23780198,100.00,0.007,M/sec
-23289900,,cycles:u,24032727,100.00,0.979,GHz
-21893361,,stalled-cycles-frontend:u,24032727,100.00,94.00,frontend cycles idle
-19882040,,instructions:u,24032727,100.00,0.85,insn per cycle
-,,,,,1.10,stalled cycles per insn
-1968649,,branches:u,24032727,100.00,82.785,M/sec
-16380,,branch-misses:u,24032727,100.00,0.83,of all branches
-24.730650,,task-clock:u,24730650,100.00,3.489,CPUs utilized
-0,,context-switches:u,24730650,100.00,0.000,K/sec
-0,,cpu-migrations:u,24730650,100.00,0.000,K/sec
-170,,page-faults:u,24730650,100.00,0.007,M/sec
-23578091,,cycles:u,25059585,100.00,0.953,GHz
-23007423,,stalled-cycles-frontend:u,25059585,100.00,97.58,frontend cycles idle
-19882032,,instructions:u,25059585,100.00,0.84,insn per cycle
-,,,,,1.16,stalled cycles per insn
-1968648,,branches:u,25059585,100.00,79.604,M/sec
-14406,,branch-misses:u,25059585,100.00,0.73,of all branches
-23.722542,,task-clock:u,23722542,100.00,2.981,CPUs utilized
-0,,context-switches:u,23722542,100.00,0.000,K/sec
-0,,cpu-migrations:u,23722542,100.00,0.000,K/sec
-169,,page-faults:u,23722542,100.00,0.007,M/sec
-23344016,,cycles:u,23960032,100.00,0.984,GHz
-21845076,,stalled-cycles-frontend:u,23960032,100.00,93.58,frontend cycles idle
-19882018,,instructions:u,23960032,100.00,0.85,insn per cycle
-,,,,,1.10,stalled cycles per insn
-1968643,,branches:u,23960032,100.00,82.986,M/sec
-14623,,branch-misses:u,23960032,100.00,0.74,of all branches
-80.874000,,task-clock:u,80874000,100.00,4.775,CPUs utilized
-0,,context-switches:u,80874000,100.00,0.000,K/sec
-0,,cpu-migrations:u,80874000,100.00,0.000,K/sec
-293,,page-faults:u,80874000,100.00,0.004,M/sec
-89359387,,cycles:u,81153132,100.00,1.105,GHz
-73056559,,stalled-cycles-frontend:u,81153132,100.00,81.76,frontend cycles idle
-77205720,,instructions:u,81153132,100.00,0.86,insn per cycle
-,,,,,0.95,stalled cycles per insn
-7413659,,branches:u,81153132,100.00,91.669,M/sec
-26979,,branch-misses:u,81153132,100.00,0.36,of all branches
-81.375093,,task-clock:u,81375093,100.00,4.817,CPUs utilized
-0,,context-switches:u,81375093,100.00,0.000,K/sec
-0,,cpu-migrations:u,81375093,100.00,0.000,K/sec
-290,,page-faults:u,81375093,100.00,0.004,M/sec
-90409270,,cycles:u,81688367,100.00,1.111,GHz
-73572916,,stalled-cycles-frontend:u,81688367,100.00,81.38,frontend cycles idle
-77236689,,instructions:u,81688367,100.00,0.85,insn per cycle
-,,,,,0.95,stalled cycles per insn
-7418976,,branches:u,81688367,100.00,91.170,M/sec
-27628,,branch-misses:u,81688367,100.00,0.37,of all branches
-81.110915,,task-clock:u,81110915,100.00,4.882,CPUs utilized
-0,,context-switches:u,81110915,100.00,0.000,K/sec
-0,,cpu-migrations:u,81110915,100.00,0.000,K/sec
-290,,page-faults:u,81110915,100.00,0.004,M/sec
-90445258,,cycles:u,81490867,100.00,1.115,GHz
-73267557,,stalled-cycles-frontend:u,81490867,100.00,81.01,frontend cycles idle
-77252530,,instructions:u,81490867,100.00,0.85,insn per cycle
-,,,,,0.95,stalled cycles per insn
-7421684,,branches:u,81490867,100.00,91.500,M/sec
-29526,,branch-misses:u,81490867,100.00,0.40,of all branches
-80.623378,,task-clock:u,80623378,100.00,4.831,CPUs utilized
-0,,context-switches:u,80623378,100.00,0.000,K/sec
-0,,cpu-migrations:u,80623378,100.00,0.000,K/sec
-291,,page-faults:u,80623378,100.00,0.004,M/sec
-89147446,,cycles:u,80922751,100.00,1.106,GHz
-72566612,,stalled-cycles-frontend:u,80922751,100.00,81.40,frontend cycles idle
-77199289,,instructions:u,80922751,100.00,0.87,insn per cycle
-,,,,,0.94,stalled cycles per insn
-7412507,,branches:u,80922751,100.00,91.940,M/sec
-27086,,branch-misses:u,80922751,100.00,0.37,of all branches
-81.546576,,task-clock:u,81546576,100.00,4.756,CPUs utilized
-0,,context-switches:u,81546576,100.00,0.000,K/sec
-0,,cpu-migrations:u,81546576,100.00,0.000,K/sec
-291,,page-faults:u,81546576,100.00,0.004,M/sec
-89715783,,cycles:u,82081183,100.00,1.100,GHz
-73587603,,stalled-cycles-frontend:u,82081183,100.00,82.02,frontend cycles idle
-77230489,,instructions:u,82081183,100.00,0.86,insn per cycle
-,,,,,0.95,stalled cycles per insn
-7417887,,branches:u,82081183,100.00,90.965,M/sec
-27832,,branch-misses:u,82081183,100.00,0.38,of all branches
-79.518730,,task-clock:u,79518730,100.00,4.354,CPUs utilized
-0,,context-switches:u,79518730,100.00,0.000,K/sec
-0,,cpu-migrations:u,79518730,100.00,0.000,K/sec
-290,,page-faults:u,79518730,100.00,0.004,M/sec
-87861437,,cycles:u,80006802,100.00,1.105,GHz
-71339922,,stalled-cycles-frontend:u,80006802,100.00,81.20,frontend cycles idle
-77162172,,instructions:u,80006802,100.00,0.88,insn per cycle
-,,,,,0.92,stalled cycles per insn
-7406184,,branches:u,80006802,100.00,93.138,M/sec
-26456,,branch-misses:u,80006802,100.00,0.36,of all branches
-78.563355,,task-clock:u,78563355,100.00,3.898,CPUs utilized
-0,,context-switches:u,78563355,100.00,0.000,K/sec
-0,,cpu-migrations:u,78563355,100.00,0.000,K/sec
-290,,page-faults:u,78563355,100.00,0.004,M/sec
-86713413,,cycles:u,79078382,100.00,1.104,GHz
-70126916,,stalled-cycles-frontend:u,79078382,100.00,80.87,frontend cycles idle
-77218713,,instructions:u,79078382,100.00,0.89,insn per cycle
-,,,,,0.91,stalled cycles per insn
-7415821,,branches:u,79078382,100.00,94.393,M/sec
-27625,,branch-misses:u,79078382,100.00,0.37,of all branches
-81.233512,,task-clock:u,81233512,100.00,4.835,CPUs utilized
-0,,context-switches:u,81233512,100.00,0.000,K/sec
-0,,cpu-migrations:u,81233512,100.00,0.000,K/sec
-291,,page-faults:u,81233512,100.00,0.004,M/sec
-89809656,,cycles:u,81641332,100.00,1.106,GHz
-73408624,,stalled-cycles-frontend:u,81641332,100.00,81.74,frontend cycles idle
-77244851,,instructions:u,81641332,100.00,0.86,insn per cycle
-,,,,,0.95,stalled cycles per insn
-7420383,,branches:u,81641332,100.00,91.346,M/sec
-29504,,branch-misses:u,81641332,100.00,0.40,of all branches
-80.637722,,task-clock:u,80637722,100.00,4.740,CPUs utilized
-0,,context-switches:u,80637722,100.00,0.000,K/sec
-0,,cpu-migrations:u,80637722,100.00,0.000,K/sec
-291,,page-faults:u,80637722,100.00,0.004,M/sec
-89095177,,cycles:u,80954222,100.00,1.105,GHz
-72631161,,stalled-cycles-frontend:u,80954222,100.00,81.52,frontend cycles idle
-77212514,,instructions:u,80954222,100.00,0.87,insn per cycle
-,,,,,0.94,stalled cycles per insn
-7414802,,branches:u,80954222,100.00,91.952,M/sec
-27619,,branch-misses:u,80954222,100.00,0.37,of all branches
-79.247641,,task-clock:u,79247641,100.00,3.972,CPUs utilized
-0,,context-switches:u,79247641,100.00,0.000,K/sec
-0,,cpu-migrations:u,79247641,100.00,0.000,K/sec
-291,,page-faults:u,79247641,100.00,0.004,M/sec
-87727730,,cycles:u,79702583,100.00,1.107,GHz
-70941035,,stalled-cycles-frontend:u,79702583,100.00,80.87,frontend cycles idle
-77251311,,instructions:u,79702583,100.00,0.88,insn per cycle
-,,,,,0.92,stalled cycles per insn
-7421439,,branches:u,79702583,100.00,93.649,M/sec
-27929,,branch-misses:u,79702583,100.00,0.38,of all branches
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 16':
+
+          6.558855      task-clock:u (msec)       #    1.545 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               134      page-faults:u             #    0.020 M/sec                  
+           192,787      cycles:u                  #    0.029 GHz                    
+         4,395,321      stalled-cycles-frontend:u # 2279.88% frontend cycles idle   
+         1,821,253      instructions:u            #    9.45  insn per cycle         
+                                                  #    2.41  stalled cycles per insn
+           245,317      branches:u                #   37.402 M/sec                  
+             9,233      branch-misses:u           #    3.76% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.004244284 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 16':
+
+          6.358787      task-clock:u (msec)       #    1.473 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               131      page-faults:u             #    0.021 M/sec                  
+           150,248      cycles:u                  #    0.024 GHz                    
+         3,164,100      stalled-cycles-frontend:u # 2105.92% frontend cycles idle   
+         1,642,130      instructions:u            #   10.93  insn per cycle         
+                                                  #    1.93  stalled cycles per insn
+           244,124      branches:u                #   38.392 M/sec                  
+             9,474      branch-misses:u           #    3.88% of all branches        
+            46,827      L1-dcache-loads:u         #    7.364 M/sec                    (5.37%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.004318057 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 16':
+
+          7.303065      task-clock:u (msec)       #    1.483 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               135      page-faults:u             #    0.018 M/sec                  
+           344,702      cycles:u                  #    0.047 GHz                    
+         4,474,701      stalled-cycles-frontend:u # 1298.14% frontend cycles idle   
+         1,794,167      instructions:u            #    5.20  insn per cycle         
+                                                  #    2.49  stalled cycles per insn
+           250,466      branches:u                #   34.296 M/sec                  
+             8,809      branch-misses:u           #    3.52% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.004923610 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 16':
+
+          7.222641      task-clock:u (msec)       #    1.360 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               132      page-faults:u             #    0.018 M/sec                  
+           266,231      cycles:u                  #    0.037 GHz                    
+         3,993,821      stalled-cycles-frontend:u # 1500.13% frontend cycles idle   
+         1,573,791      instructions:u            #    5.91  insn per cycle         
+                                                  #    2.54  stalled cycles per insn
+           224,082      branches:u                #   31.025 M/sec                  
+             9,446      branch-misses:u           #    4.22% of all branches        
+           212,835      L1-dcache-loads:u         #   29.468 M/sec                    (14.62%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.005309214 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 16':
+
+          7.340795      task-clock:u (msec)       #    1.524 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               133      page-faults:u             #    0.018 M/sec                  
+         2,178,815      cycles:u                  #    0.297 GHz                    
+         6,925,805      stalled-cycles-frontend:u #  317.87% frontend cycles idle   
+         1,850,379      instructions:u            #    0.85  insn per cycle         
+                                                  #    3.74  stalled cycles per insn
+           250,321      branches:u                #   34.100 M/sec                  
+             8,890      branch-misses:u           #    3.55% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.004817671 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 16':
+
+          7.067979      task-clock:u (msec)       #    1.514 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               131      page-faults:u             #    0.019 M/sec                  
+           179,265      cycles:u                  #    0.025 GHz                    
+         4,890,822      stalled-cycles-frontend:u # 2728.26% frontend cycles idle   
+         1,750,381      instructions:u            #    9.76  insn per cycle         
+                                                  #    2.79  stalled cycles per insn
+           244,253      branches:u                #   34.558 M/sec                  
+             9,363      branch-misses:u           #    3.83% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.004667144 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 16':
+
+          8.210639      task-clock:u (msec)       #    1.178 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               132      page-faults:u             #    0.016 M/sec                  
+           190,338      cycles:u                  #    0.023 GHz                    
+         7,143,149      stalled-cycles-frontend:u # 3752.88% frontend cycles idle   
+         1,817,132      instructions:u            #    9.55  insn per cycle         
+                                                  #    3.93  stalled cycles per insn
+           244,603      branches:u                #   29.791 M/sec                  
+             8,709      branch-misses:u           #    3.56% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.006969159 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 16':
+
+          7.280979      task-clock:u (msec)       #    1.538 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               133      page-faults:u             #    0.018 M/sec                  
+            34,987      cycles:u                  #    0.005 GHz                    
+         3,480,587      stalled-cycles-frontend:u # 9948.23% frontend cycles idle   
+         1,714,326      instructions:u            #   49.00  insn per cycle         
+                                                  #    2.03  stalled cycles per insn
+           244,643      branches:u                #   33.600 M/sec                  
+             9,606      branch-misses:u           #    3.93% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.004735067 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 16':
+
+          7.860503      task-clock:u (msec)       #    1.492 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               131      page-faults:u             #    0.017 M/sec                  
+           233,978      cycles:u                  #    0.030 GHz                    
+         5,323,836      stalled-cycles-frontend:u # 2275.36% frontend cycles idle   
+         1,828,780      instructions:u            #    7.82  insn per cycle         
+                                                  #    2.91  stalled cycles per insn
+           246,557      branches:u                #   31.367 M/sec                  
+             9,937      branch-misses:u           #    4.03% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.005269497 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 16':
+
+          7.515699      task-clock:u (msec)       #    1.403 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               132      page-faults:u             #    0.018 M/sec                  
+            41,850      cycles:u                  #    0.006 GHz                    
+         4,737,366      stalled-cycles-frontend:u # 11319.87% frontend cycles idle  
+         1,819,668      instructions:u            #   43.48  insn per cycle         
+                                                  #    2.60  stalled cycles per insn
+           245,330      branches:u                #   32.642 M/sec                  
+             9,914      branch-misses:u           #    4.04% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.005355381 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 32':
+
+         11.091883      task-clock:u (msec)       #    2.294 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               141      page-faults:u             #    0.013 M/sec                  
+           146,920      cycles:u                  #    0.013 GHz                    
+         3,887,686      stalled-cycles-frontend:u # 2646.12% frontend cycles idle   
+         5,421,830      instructions:u            #   36.90  insn per cycle         
+                                                  #    0.72  stalled cycles per insn
+           591,734      branches:u                #   53.348 M/sec                  
+            11,380      branch-misses:u           #    1.92% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.004834714 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 32':
+
+         11.425457      task-clock:u (msec)       #    2.143 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               140      page-faults:u             #    0.012 M/sec                  
+                 0      cycles:u                  #    0.000 GHz                    
+         5,406,205      stalled-cycles-frontend:u                                   
+         5,095,730      instructions:u                                              
+                                                  #    1.06  stalled cycles per insn
+           598,389      branches:u                #   52.373 M/sec                  
+            11,679      branch-misses:u           #    1.95% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.005332632 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 32':
+
+         11.940749      task-clock:u (msec)       #    2.166 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               139      page-faults:u             #    0.012 M/sec                  
+            40,391      cycles:u                  #    0.003 GHz                    
+         2,569,104      stalled-cycles-frontend:u # 6360.59% frontend cycles idle   
+         5,112,097      instructions:u            #  126.57  insn per cycle         
+                                                  #    0.50  stalled cycles per insn
+           556,997      branches:u                #   46.647 M/sec                  
+            12,107      branch-misses:u           #    2.17% of all branches        
+           867,782      L1-dcache-loads:u         #   72.674 M/sec                    (6.67%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.005512205 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 32':
+
+         11.291197      task-clock:u (msec)       #    2.356 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               141      page-faults:u             #    0.012 M/sec                  
+           139,795      cycles:u                  #    0.012 GHz                    
+         5,227,654      stalled-cycles-frontend:u # 3739.51% frontend cycles idle   
+         5,458,931      instructions:u            #   39.05  insn per cycle         
+                                                  #    0.96  stalled cycles per insn
+           594,908      branches:u                #   52.688 M/sec                  
+            10,557      branch-misses:u           #    1.77% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.004792995 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 32':
+
+         10.877305      task-clock:u (msec)       #    2.258 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               141      page-faults:u             #    0.013 M/sec                  
+           382,470      cycles:u                  #    0.035 GHz                    
+         7,319,910      stalled-cycles-frontend:u # 1913.85% frontend cycles idle   
+         5,333,700      instructions:u            #   13.95  insn per cycle         
+                                                  #    1.37  stalled cycles per insn
+           591,468      branches:u                #   54.376 M/sec                  
+            11,095      branch-misses:u           #    1.88% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.004816559 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 32':
+
+         11.359166      task-clock:u (msec)       #    2.358 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               141      page-faults:u             #    0.012 M/sec                  
+           196,387      cycles:u                  #    0.017 GHz                    
+         7,147,663      stalled-cycles-frontend:u # 3639.58% frontend cycles idle   
+         5,454,229      instructions:u            #   27.77  insn per cycle         
+                                                  #    1.31  stalled cycles per insn
+           594,095      branches:u                #   52.301 M/sec                  
+            11,472      branch-misses:u           #    1.93% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.004817995 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 32':
+
+         10.708259      task-clock:u (msec)       #    2.238 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               141      page-faults:u             #    0.013 M/sec                  
+                 0      cycles:u                  #    0.000 GHz                    
+         6,447,916      stalled-cycles-frontend:u                                   
+         5,441,115      instructions:u                                              
+                                                  #    1.19  stalled cycles per insn
+           592,191      branches:u                #   55.302 M/sec                  
+            11,090      branch-misses:u           #    1.87% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.004784001 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 32':
+
+         10.807901      task-clock:u (msec)       #    2.109 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               142      page-faults:u             #    0.013 M/sec                  
+            26,115      cycles:u                  #    0.002 GHz                    
+         2,329,831      stalled-cycles-frontend:u # 8921.43% frontend cycles idle   
+         5,083,289      instructions:u            #  194.65  insn per cycle         
+                                                  #    0.46  stalled cycles per insn
+           589,599      branches:u                #   54.553 M/sec                  
+            10,518      branch-misses:u           #    1.78% of all branches        
+            74,307      L1-dcache-loads:u         #    6.875 M/sec                    (3.54%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.005124943 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 32':
+
+         10.347176      task-clock:u (msec)       #    2.059 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               141      page-faults:u             #    0.014 M/sec                  
+            44,430      cycles:u                  #    0.004 GHz                    
+         1,906,650      stalled-cycles-frontend:u # 4291.36% frontend cycles idle   
+         5,033,244      instructions:u            #  113.28  insn per cycle         
+                                                  #    0.38  stalled cycles per insn
+           589,859      branches:u                #   57.007 M/sec                  
+            10,773      branch-misses:u           #    1.83% of all branches        
+            82,379      L1-dcache-loads:u         #    7.961 M/sec                    (2.69%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.005025804 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 32':
+
+         10.626397      task-clock:u (msec)       #    2.161 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               139      page-faults:u             #    0.013 M/sec                  
+            36,329      cycles:u                  #    0.003 GHz                    
+         4,835,377      stalled-cycles-frontend:u # 13309.96% frontend cycles idle  
+         5,439,746      instructions:u            #  149.74  insn per cycle         
+                                                  #    0.89  stalled cycles per insn
+           591,616      branches:u                #   55.674 M/sec                  
+            10,978      branch-misses:u           #    1.86% of all branches        
+     <not counted>      L1-dcache-loads:u                                             (0.00%)
+     <not counted>      L1-dcache-load-misses:u                                       (0.00%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.004918191 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 64':
+
+         25.118037      task-clock:u (msec)       #    3.378 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               170      page-faults:u             #    0.007 M/sec                  
+            64,662      cycles:u                  #    0.003 GHz                    
+         2,178,997      stalled-cycles-frontend:u # 3369.83% frontend cycles idle   
+         7,625,198      instructions:u            #  117.92  insn per cycle         
+                                                  #    0.29  stalled cycles per insn
+         1,418,684      branches:u                #   56.481 M/sec                  
+            11,391      branch-misses:u           #    0.80% of all branches          (98.37%)
+        12,006,378      L1-dcache-loads:u         #  477.998 M/sec                    (32.83%)
+            28,191      L1-dcache-load-misses:u   #    0.23% of all L1-dcache hits    (14.79%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.007434904 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 64':
+
+         23.906710      task-clock:u (msec)       #    3.070 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               170      page-faults:u             #    0.007 M/sec                  
+         4,736,442      cycles:u                  #    0.198 GHz                      (6.90%)
+        11,510,500      stalled-cycles-frontend:u #  243.02% frontend cycles idle     (13.88%)
+        11,140,332      instructions:u            #    2.35  insn per cycle         
+                                                  #    1.03  stalled cycles per insn  (50.81%)
+         1,670,525      branches:u                #   69.877 M/sec                    (68.67%)
+            10,801      branch-misses:u           #    0.65% of all branches        
+        14,034,473      L1-dcache-loads:u         #  587.052 M/sec                    (41.75%)
+            18,163      L1-dcache-load-misses:u   #    0.13% of all L1-dcache hits    (22.07%)
+            26,873      LLC-loads:u               #    1.124 M/sec                    (4.36%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.007786981 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 64':
+
+         25.475588      task-clock:u (msec)       #    3.635 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               170      page-faults:u             #    0.007 M/sec                  
+            18,973      cycles:u                  #    0.001 GHz                    
+         9,788,160      stalled-cycles-frontend:u # 51589.94% frontend cycles idle  
+        12,556,147      instructions:u            #  661.79  insn per cycle         
+                                                  #    0.78  stalled cycles per insn
+         1,725,876      branches:u                #   67.746 M/sec                  
+            14,189      branch-misses:u           #    0.82% of all branches          (99.37%)
+         7,418,518      L1-dcache-loads:u         #  291.201 M/sec                    (10.91%)
+            11,146      L1-dcache-load-misses:u   #    0.15% of all L1-dcache hits    (1.78%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.007009217 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 64':
+
+         25.616384      task-clock:u (msec)       #    3.268 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               170      page-faults:u             #    0.007 M/sec                  
+           221,227      cycles:u                  #    0.009 GHz                    
+         7,614,026      stalled-cycles-frontend:u # 3441.73% frontend cycles idle   
+        13,203,615      instructions:u            #   59.68  insn per cycle         
+                                                  #    0.58  stalled cycles per insn
+         1,725,193      branches:u                #   67.347 M/sec                  
+            12,764      branch-misses:u           #    0.74% of all branches        
+        10,744,399      L1-dcache-loads:u         #  419.435 M/sec                    (15.77%)
+            48,884      L1-dcache-load-misses:u   #    0.45% of all L1-dcache hits    (3.72%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.007838315 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 64':
+
+         26.502814      task-clock:u (msec)       #    3.551 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               172      page-faults:u             #    0.006 M/sec                  
+           375,739      cycles:u                  #    0.014 GHz                    
+         4,172,630      stalled-cycles-frontend:u # 1110.51% frontend cycles idle   
+         9,650,879      instructions:u            #   25.69  insn per cycle         
+                                                  #    0.43  stalled cycles per insn
+         1,509,199      branches:u                #   56.945 M/sec                  
+            14,906      branch-misses:u           #    0.99% of all branches        
+        10,659,790      L1-dcache-loads:u         #  402.214 M/sec                    (22.71%)
+                 0      L1-dcache-load-misses:u   #    0.00% of all L1-dcache hits    (0.34%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.007463796 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 64':
+
+         25.542263      task-clock:u (msec)       #    2.983 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               170      page-faults:u             #    0.007 M/sec                  
+         7,895,277      cycles:u                  #    0.309 GHz                      (13.95%)
+        15,086,182      stalled-cycles-frontend:u #  191.08% frontend cycles idle     (24.63%)
+        13,778,350      instructions:u            #    1.75  insn per cycle         
+                                                  #    1.09  stalled cycles per insn  (47.22%)
+         1,653,422      branches:u                #   64.733 M/sec                    (59.61%)
+            11,295      branch-misses:u           #    0.68% of all branches        
+        12,637,280      L1-dcache-loads:u         #  494.760 M/sec                    (46.08%)
+            22,409      L1-dcache-load-misses:u   #    0.18% of all L1-dcache hits    (28.27%)
+            26,951      LLC-loads:u               #    1.055 M/sec                    (7.51%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.008562360 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 64':
+
+         24.734702      task-clock:u (msec)       #    3.242 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               172      page-faults:u             #    0.007 M/sec                  
+           388,759      cycles:u                  #    0.016 GHz                    
+         3,478,498      stalled-cycles-frontend:u #  894.77% frontend cycles idle   
+         8,115,875      instructions:u            #   20.88  insn per cycle         
+                                                  #    0.43  stalled cycles per insn
+         1,376,426      branches:u                #   55.648 M/sec                  
+            12,823      branch-misses:u           #    0.93% of all branches        
+        14,021,765      L1-dcache-loads:u         #  566.886 M/sec                    (28.35%)
+            18,006      L1-dcache-load-misses:u   #    0.13% of all L1-dcache hits    (10.47%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.007629654 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 64':
+
+         25.234876      task-clock:u (msec)       #    3.371 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               169      page-faults:u             #    0.007 M/sec                  
+           104,028      cycles:u                  #    0.004 GHz                    
+         7,545,397      stalled-cycles-frontend:u # 7253.24% frontend cycles idle   
+        11,952,563      instructions:u            #  114.90  insn per cycle         
+                                                  #    0.63  stalled cycles per insn
+         1,670,599      branches:u                #   66.202 M/sec                  
+            13,927      branch-misses:u           #    0.83% of all branches        
+        12,921,852      L1-dcache-loads:u         #  512.063 M/sec                    (16.63%)
+            13,085      L1-dcache-load-misses:u   #    0.10% of all L1-dcache hits    (7.03%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.007485629 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 64':
+
+         25.662898      task-clock:u (msec)       #    0.485 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               172      page-faults:u             #    0.007 M/sec                  
+         2,018,244      cycles:u                  #    0.079 GHz                      (23.92%)
+         7,149,347      stalled-cycles-frontend:u #  354.24% frontend cycles idle     (56.41%)
+        11,258,479      instructions:u            #    5.58  insn per cycle         
+                                                  #    0.64  stalled cycles per insn  (84.83%)
+         1,652,305      branches:u                #   64.385 M/sec                    (93.33%)
+            14,538      branch-misses:u           #    0.88% of all branches        
+        10,830,287      L1-dcache-loads:u         #  422.021 M/sec                    (19.20%)
+            57,643      L1-dcache-load-misses:u   #    0.53% of all L1-dcache hits    (6.89%)
+             3,465      LLC-loads:u               #    0.135 M/sec                    (13.01%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.052910959 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 64':
+
+         25.106622      task-clock:u (msec)       #    3.180 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               169      page-faults:u             #    0.007 M/sec                  
+           484,196      cycles:u                  #    0.019 GHz                    
+         7,339,737      stalled-cycles-frontend:u # 1515.86% frontend cycles idle   
+        10,915,024      instructions:u            #   22.54  insn per cycle         
+                                                  #    0.67  stalled cycles per insn
+         1,631,285      branches:u                #   64.974 M/sec                  
+            13,540      branch-misses:u           #    0.83% of all branches        
+        12,051,681      L1-dcache-loads:u         #  480.020 M/sec                    (20.07%)
+            22,366      L1-dcache-load-misses:u   #    0.19% of all L1-dcache hits    (5.20%)
+     <not counted>      LLC-loads:u                                                   (0.00%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.007894717 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 128':
+
+         83.343269      task-clock:u (msec)       #    4.979 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               290      page-faults:u             #    0.003 M/sec                  
+        79,670,135      cycles:u                  #    0.956 GHz                      (33.56%)
+        61,253,304      stalled-cycles-frontend:u #   76.88% frontend cycles idle     (42.98%)
+        69,876,799      instructions:u            #    0.88  insn per cycle         
+                                                  #    0.88  stalled cycles per insn  (50.90%)
+         6,751,410      branches:u                #   81.007 M/sec                    (57.97%)
+            28,584      branch-misses:u           #    0.42% of all branches          (64.03%)
+        47,943,993      L1-dcache-loads:u         #  575.259 M/sec                    (40.01%)
+            36,492      L1-dcache-load-misses:u   #    0.08% of all L1-dcache hits    (30.64%)
+             5,550      LLC-loads:u               #    0.067 M/sec                    (25.03%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.016737773 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 128':
+
+         81.372323      task-clock:u (msec)       #    4.425 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               290      page-faults:u             #    0.004 M/sec                  
+        72,515,912      cycles:u                  #    0.891 GHz                      (28.37%)
+        61,118,702      stalled-cycles-frontend:u #   84.28% frontend cycles idle     (36.64%)
+        69,199,797      instructions:u            #    0.95  insn per cycle         
+                                                  #    0.88  stalled cycles per insn  (49.32%)
+         6,907,828      branches:u                #   84.892 M/sec                    (57.04%)
+            27,233      branch-misses:u           #    0.39% of all branches          (68.62%)
+        45,821,920      L1-dcache-loads:u         #  563.114 M/sec                    (42.46%)
+            43,107      L1-dcache-load-misses:u   #    0.09% of all L1-dcache hits    (29.66%)
+            11,178      LLC-loads:u               #    0.137 M/sec                    (21.53%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.018389358 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 128':
+
+         82.282199      task-clock:u (msec)       #    4.532 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               290      page-faults:u             #    0.004 M/sec                  
+        77,015,975      cycles:u                  #    0.936 GHz                      (35.43%)
+        64,055,429      stalled-cycles-frontend:u #   83.17% frontend cycles idle     (42.73%)
+        68,600,874      instructions:u            #    0.89  insn per cycle         
+                                                  #    0.93  stalled cycles per insn  (53.52%)
+         6,873,421      branches:u                #   83.535 M/sec                    (56.34%)
+            27,613      branch-misses:u           #    0.40% of all branches          (63.61%)
+        44,400,377      L1-dcache-loads:u         #  539.611 M/sec                    (36.97%)
+            42,512      L1-dcache-load-misses:u   #    0.10% of all L1-dcache hits    (28.63%)
+             9,920      LLC-loads:u               #    0.121 M/sec                    (26.26%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.018153872 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 128':
+
+         84.088901      task-clock:u (msec)       #    4.819 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               291      page-faults:u             #    0.003 M/sec                  
+        74,537,661      cycles:u                  #    0.886 GHz                      (32.06%)
+        59,078,285      stalled-cycles-frontend:u #   79.26% frontend cycles idle     (40.31%)
+        67,245,856      instructions:u            #    0.90  insn per cycle         
+                                                  #    0.88  stalled cycles per insn  (52.39%)
+         6,657,181      branches:u                #   79.168 M/sec                    (61.06%)
+            27,413      branch-misses:u           #    0.41% of all branches          (68.70%)
+        44,651,474      L1-dcache-loads:u         #  531.003 M/sec                    (37.78%)
+            66,247      L1-dcache-load-misses:u   #    0.15% of all L1-dcache hits    (28.88%)
+            16,122      LLC-loads:u               #    0.192 M/sec                    (25.84%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.017450742 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 128':
+
+         84.600314      task-clock:u (msec)       #    4.755 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               290      page-faults:u             #    0.003 M/sec                  
+        84,051,995      cycles:u                  #    0.994 GHz                      (30.25%)
+        69,873,001      stalled-cycles-frontend:u #   83.13% frontend cycles idle     (37.50%)
+        73,042,340      instructions:u            #    0.87  insn per cycle         
+                                                  #    0.96  stalled cycles per insn  (47.06%)
+         6,937,529      branches:u                #   82.004 M/sec                    (50.64%)
+            24,054      branch-misses:u           #    0.35% of all branches          (74.09%)
+        46,400,629      L1-dcache-loads:u         #  548.469 M/sec                    (49.63%)
+            58,272      L1-dcache-load-misses:u   #    0.13% of all L1-dcache hits    (34.89%)
+            16,908      LLC-loads:u               #    0.200 M/sec                    (21.34%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.017790825 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 128':
+
+         83.535899      task-clock:u (msec)       #    4.844 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               292      page-faults:u             #    0.003 M/sec                  
+        86,462,280      cycles:u                  #    1.035 GHz                      (32.88%)
+        72,489,685      stalled-cycles-frontend:u #   83.84% frontend cycles idle     (43.08%)
+        78,056,036      instructions:u            #    0.90  insn per cycle         
+                                                  #    0.93  stalled cycles per insn  (51.87%)
+         7,341,715      branches:u                #   87.887 M/sec                    (52.44%)
+            27,723      branch-misses:u           #    0.38% of all branches          (59.20%)
+        45,460,019      L1-dcache-loads:u         #  544.197 M/sec                    (39.32%)
+            49,527      L1-dcache-load-misses:u   #    0.11% of all L1-dcache hits    (32.05%)
+            11,366      LLC-loads:u               #    0.136 M/sec                    (25.86%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.017244814 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 128':
+
+         82.760008      task-clock:u (msec)       #    4.647 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               291      page-faults:u             #    0.004 M/sec                  
+        68,994,764      cycles:u                  #    0.834 GHz                      (30.13%)
+        57,221,195      stalled-cycles-frontend:u #   82.94% frontend cycles idle     (36.20%)
+        67,331,513      instructions:u            #    0.98  insn per cycle         
+                                                  #    0.85  stalled cycles per insn  (49.87%)
+         6,611,478      branches:u                #   79.887 M/sec                    (58.53%)
+            26,233      branch-misses:u           #    0.40% of all branches          (74.70%)
+        47,184,616      L1-dcache-loads:u         #  570.138 M/sec                    (38.31%)
+            36,740      L1-dcache-load-misses:u   #    0.08% of all L1-dcache hits    (31.11%)
+            10,255      LLC-loads:u               #    0.124 M/sec                    (22.15%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.017809556 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 128':
+
+         84.366744      task-clock:u (msec)       #    4.866 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               291      page-faults:u             #    0.003 M/sec                  
+        71,305,434      cycles:u                  #    0.845 GHz                      (38.58%)
+        60,294,028      stalled-cycles-frontend:u #   84.56% frontend cycles idle     (44.51%)
+        64,222,142      instructions:u            #    0.90  insn per cycle         
+                                                  #    0.94  stalled cycles per insn  (55.22%)
+         6,760,775      branches:u                #   80.136 M/sec                    (59.33%)
+            26,911      branch-misses:u           #    0.40% of all branches          (68.89%)
+        46,689,207      L1-dcache-loads:u         #  553.408 M/sec                    (36.63%)
+            29,387      L1-dcache-load-misses:u   #    0.06% of all L1-dcache hits    (31.74%)
+            10,384      LLC-loads:u               #    0.123 M/sec                    (26.09%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.017337713 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 128':
+
+         82.682598      task-clock:u (msec)       #    4.399 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               292      page-faults:u             #    0.004 M/sec                  
+        74,405,873      cycles:u                  #    0.900 GHz                      (33.48%)
+        61,557,971      stalled-cycles-frontend:u #   82.73% frontend cycles idle     (42.47%)
+        69,986,143      instructions:u            #    0.94  insn per cycle         
+                                                  #    0.88  stalled cycles per insn  (51.00%)
+         6,724,898      branches:u                #   81.334 M/sec                    (54.84%)
+            27,859      branch-misses:u           #    0.41% of all branches          (66.53%)
+        46,211,867      L1-dcache-loads:u         #  558.907 M/sec                    (44.31%)
+            39,076      L1-dcache-load-misses:u   #    0.08% of all L1-dcache hits    (32.09%)
+            16,060      LLC-loads:u               #    0.194 M/sec                    (23.92%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.018796524 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_pth -0.188 -0.012 0.554 0.754 32 128':
+
+         83.426799      task-clock:u (msec)       #    4.448 CPUs utilized          
+                 0      context-switches:u        #    0.000 K/sec                  
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+               292      page-faults:u             #    0.004 M/sec                  
+        86,727,643      cycles:u                  #    1.040 GHz                      (38.69%)
+        69,609,273      stalled-cycles-frontend:u #   80.26% frontend cycles idle     (47.62%)
+        78,073,335      instructions:u            #    0.90  insn per cycle         
+                                                  #    0.89  stalled cycles per insn  (55.81%)
+         7,306,040      branches:u                #   87.574 M/sec                    (52.89%)
+            32,142      branch-misses:u           #    0.44% of all branches          (58.46%)
+        43,056,076      L1-dcache-loads:u         #  516.094 M/sec                    (38.18%)
+            29,659      L1-dcache-load-misses:u   #    0.07% of all L1-dcache hits    (34.24%)
+             6,822      LLC-loads:u               #    0.082 M/sec                    (30.11%)
+   <not supported>      LLC-load-misses:u                                           
+
+       0.018753947 seconds time elapsed
+

@@ -135,6 +135,9 @@ void compute_mandelbrot(){
 
     int tid;
 
+    omp_set_dynamic(0);
+    omp_set_num_threads(nthreads);
+
     #pragma omp parallel private(nthreads, tid)
     {
         tid = omp_get_thread_num();
