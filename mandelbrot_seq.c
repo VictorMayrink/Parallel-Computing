@@ -47,7 +47,8 @@ void allocate_image_buffer(){
     int rgb_size = 3;
     image_buffer = (unsigned char **) malloc(sizeof(unsigned char *) * image_buffer_size);
 
-    for(int i = 0; i < image_buffer_size; i++){
+    int i;
+    for(i = 0; i < image_buffer_size; i++){
         image_buffer[i] = (unsigned char *) malloc(sizeof(unsigned char) * rgb_size);
     };
 };
@@ -109,7 +110,8 @@ void write_to_file(){
     fprintf(file, "P6\n %s\n %d\n %d\n %d\n", comment,
             i_x_max, i_y_max, max_color_component_value);
 
-    for(int i = 0; i < image_buffer_size; i++){
+    int i;
+    for(i = 0; i < image_buffer_size; i++){
         fwrite(image_buffer[i], 1 , 3, file);
     };
 

@@ -167,7 +167,6 @@ void compute_mandelbrot(){
 
             cy = cy_min + iy * pixel_height;
 
-            int ix;
             for (ix = 0; ix < image_size; ix++) {
 
                 cx = cx_min + ix * pixel_width;
