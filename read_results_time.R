@@ -1,4 +1,4 @@
-setwd("~/Desktop/Parallel-Computing")
+setwd("~/GitProjects/Parallel-Computing")
 library("ggplot2")
 
 seq_full = read.csv("./results_time/mandelbrot_seq/full.log", header = F, stringsAsFactors = F)
@@ -86,25 +86,40 @@ read_result <- function(df) {
 
 results <- do.call("rbind", lapply(results, read_result))
 
-size256 = results[results$imsize == 256 & results$iomode == "withoutIO",]
+plots <- list()
+current_plot <- 1
 
-fig1 <- ggplot(data = size256, aes(x = as.factor(nthreads), y = real, color = algorithm)) +
-  geom_boxplot() +
-  facet_wrap(~image, scales = "free") +
-  ggtitle("Tempo de Execução x Número de Threads (Tamanho da imagem fixado em 256)") +
-  xlab("Número de threads") +
-  ylab("Tempo de execução (s)") +
-  guides(color = guide_legend(title="Implementação")) +
-  theme(plot.title = element_text(hjust = 0.5, vjust = 5, size = 20),
-        strip.text = element_text(size= 16),
-        axis.title = element_text(size = 16),
-        legend.title = element_text(size = 12),
-        legend.text = element_text(size = 12),
-        axis.text = element_text(size = 12),
-        axis.title.y=element_text(vjust=5),
-        axis.title.x=element_text(vjust=-65),
-        plot.margin = unit(c(1,1,1,1), "cm"))
+sizes <- unique(results$imsize)
+for (s in sizes) {
+  df <- results[results$imsize == s & results$iomode == "withoutIO",]
+  plots[[current_plot]] <- list()
+  plots[[current_plot]][["fig"]] <- ggplot(data = df, 
+    aes(x = as.factor(nthreads), y = real, color = algorithm)) +
+    geom_boxplot() +
+    facet_wrap(~image, scales = "free") +
+    ggtitle("Tempo de Execução x Número de Threads", 
+            subtitle = sprintf("Tamanho da imagem: %s (Sem I/O)", s)) +
+    xlab("Número de threads") +
+    ylab("Tempo de execução (s)") +
+    guides(color = guide_legend(title="Implementação")) +
+    theme(plot.title = element_text(hjust = 0.5, vjust = 5, size = 20),
+          plot.subtitle = element_text(hjust = 0.5, size = 14, vjust = 5),
+          strip.text = element_text(size= 16),
+          axis.title = element_text(size = 16),
+          legend.title = element_text(size = 12),
+          legend.text = element_text(size = 12),
+          axis.text = element_text(size = 12),
+          axis.title.y=element_text(vjust=5),
+          axis.title.x=element_text(vjust=-65),
+          plot.margin = unit(c(1,1,1,1), "cm"))
+  plots[[current_plot]][["filename"]] <- sprintf("BoxplotSize%s.pdf", s)
+  current_plot <- current_plot + 1
+}
 
-pdf("boxplot.pdf", width = 16, height = 9)
-  print(fig1)
-dev.off()
+for (p in plots) {
+  pdf(paste("./plots/", p[["filename"]], sep = ""), width = 16, height = 9)
+  print(p)
+  dev.off()
+}
+
+write.csv(results, file = "./results_time/results.csv")
