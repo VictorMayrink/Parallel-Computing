@@ -1,0 +1,6000 @@
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 32
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.009s
+user	0m0.004s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.009s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 64
+
+real	0m0.009s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.029s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.030s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.029s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.029s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.029s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.029s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.029s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.030s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.030s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.029s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.029s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.030s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.030s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.030s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.030s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.030s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.029s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.029s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.030s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 128
+
+real	0m0.029s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.114s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.114s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.115s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.114s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.115s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.114s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.119s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.114s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.115s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.116s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.114s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.114s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.115s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.114s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.114s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.115s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.114s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.116s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.115s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 256
+
+real	0m0.116s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.455s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.455s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.461s
+user	0m0.460s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.455s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.508s
+user	0m0.504s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.455s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.454s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.467s
+user	0m0.464s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.463s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.453s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.450s
+user	0m0.448s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.456s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.466s
+user	0m0.464s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.458s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.460s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.457s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.460s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.454s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.454s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 512
+
+real	0m0.459s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.821s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.830s
+user	0m1.828s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.854s
+user	0m1.852s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.834s
+user	0m1.832s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.827s
+user	0m1.824s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.865s
+user	0m1.864s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.839s
+user	0m1.836s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.834s
+user	0m1.832s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.836s
+user	0m1.832s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.826s
+user	0m1.824s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.837s
+user	0m1.836s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.829s
+user	0m1.828s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.827s
+user	0m1.824s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.834s
+user	0m1.832s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.831s
+user	0m1.828s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.823s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.834s
+user	0m1.832s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.819s
+user	0m1.816s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.826s
+user	0m1.824s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 1024
+
+real	0m1.821s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.403s
+user	0m7.400s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.334s
+user	0m7.332s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.298s
+user	0m7.296s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.328s
+user	0m7.324s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.405s
+user	0m7.400s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.275s
+user	0m7.272s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.299s
+user	0m7.296s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.304s
+user	0m7.300s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.341s
+user	0m7.340s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.319s
+user	0m7.316s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.317s
+user	0m7.316s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.321s
+user	0m7.320s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.337s
+user	0m7.336s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.295s
+user	0m7.292s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.299s
+user	0m7.296s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.313s
+user	0m7.312s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.311s
+user	0m7.308s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.296s
+user	0m7.292s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.253s
+user	0m7.252s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 2048
+
+real	0m7.392s
+user	0m7.388s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.313s
+user	0m29.312s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.308s
+user	0m29.304s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.096s
+user	0m29.092s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.241s
+user	0m29.236s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.124s
+user	0m29.120s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.220s
+user	0m29.216s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.163s
+user	0m29.160s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.282s
+user	0m29.280s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.343s
+user	0m29.340s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.129s
+user	0m29.124s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.241s
+user	0m29.240s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.161s
+user	0m29.160s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.282s
+user	0m29.280s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.060s
+user	0m29.056s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m28.990s
+user	0m28.988s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.043s
+user	0m29.040s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.047s
+user	0m29.044s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.222s
+user	0m29.220s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m29.081s
+user	0m29.076s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 4096
+
+real	0m28.960s
+user	0m28.956s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.580s
+user	1m56.572s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.183s
+user	1m56.176s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.932s
+user	1m56.928s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m57.266s
+user	1m57.260s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.329s
+user	1m56.324s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.441s
+user	1m56.436s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.459s
+user	1m56.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.367s
+user	1m56.360s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.524s
+user	1m56.516s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.693s
+user	1m56.688s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.473s
+user	1m56.468s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.165s
+user	1m56.160s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.854s
+user	1m56.848s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.542s
+user	1m56.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.852s
+user	1m56.848s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.990s
+user	1m56.984s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.623s
+user	1m56.616s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.363s
+user	1m56.356s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m55.692s
+user	1m55.688s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 1 8192
+
+real	1m56.200s
+user	1m56.192s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.005s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.005s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.005s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.005s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.005s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.005s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.005s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.005s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.005s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.005s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.005s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.005s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 64
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.015s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.015s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.015s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.016s
+user	0m0.024s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.016s
+user	0m0.024s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.017s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.016s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.016s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.016s
+user	0m0.024s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.015s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.015s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.016s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.016s
+user	0m0.024s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.015s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.016s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.015s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.015s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.016s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.015s
+user	0m0.024s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 128
+
+real	0m0.016s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.059s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.059s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.062s
+user	0m0.120s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.059s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.059s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.059s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 256
+
+real	0m0.058s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.228s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.229s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.229s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.242s
+user	0m0.480s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.229s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.229s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.228s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.230s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.230s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.233s
+user	0m0.464s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.229s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.230s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.231s
+user	0m0.460s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.231s
+user	0m0.456s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.229s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.229s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.228s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.228s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.228s
+user	0m0.452s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 512
+
+real	0m0.227s
+user	0m0.448s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.908s
+user	0m1.812s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.906s
+user	0m1.808s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.906s
+user	0m1.808s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.922s
+user	0m1.840s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.911s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.913s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.910s
+user	0m1.816s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.912s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.907s
+user	0m1.812s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.913s
+user	0m1.824s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.905s
+user	0m1.808s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.920s
+user	0m1.836s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.912s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.904s
+user	0m1.804s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.909s
+user	0m1.816s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.923s
+user	0m1.840s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.917s
+user	0m1.828s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.915s
+user	0m1.828s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.914s
+user	0m1.824s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 1024
+
+real	0m0.920s
+user	0m1.836s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.633s
+user	0m7.264s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.619s
+user	0m7.236s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.624s
+user	0m7.244s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.629s
+user	0m7.252s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.635s
+user	0m7.268s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.681s
+user	0m7.360s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.653s
+user	0m7.300s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.648s
+user	0m7.288s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.620s
+user	0m7.236s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.654s
+user	0m7.304s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.640s
+user	0m7.272s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.639s
+user	0m7.276s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.625s
+user	0m7.240s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.645s
+user	0m7.284s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.676s
+user	0m7.348s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.649s
+user	0m7.296s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.642s
+user	0m7.280s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.629s
+user	0m7.256s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.673s
+user	0m7.340s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 2048
+
+real	0m3.673s
+user	0m7.340s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.510s
+user	0m29.016s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.497s
+user	0m28.992s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.542s
+user	0m29.076s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.515s
+user	0m29.024s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.499s
+user	0m28.992s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.537s
+user	0m29.068s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.483s
+user	0m28.960s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.533s
+user	0m29.056s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.548s
+user	0m29.088s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.512s
+user	0m29.020s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.589s
+user	0m29.168s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.637s
+user	0m29.264s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.612s
+user	0m29.216s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.521s
+user	0m29.036s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.624s
+user	0m29.240s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.617s
+user	0m29.224s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.659s
+user	0m29.312s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.614s
+user	0m29.220s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.629s
+user	0m29.248s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 4096
+
+real	0m14.644s
+user	0m29.284s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.401s
+user	1m56.788s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.488s
+user	1m56.956s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.719s
+user	1m57.420s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m59.020s
+user	1m58.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.499s
+user	1m56.984s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.559s
+user	1m57.100s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.552s
+user	1m57.096s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.504s
+user	1m57.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.300s
+user	1m56.592s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.184s
+user	1m56.348s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.166s
+user	1m56.324s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.482s
+user	1m56.948s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.148s
+user	1m56.284s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.303s
+user	1m56.596s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.220s
+user	1m56.428s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.216s
+user	1m56.420s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.152s
+user	1m56.288s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m57.906s
+user	1m55.800s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m58.097s
+user	1m56.176s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 2 8192
+
+real	0m57.998s
+user	1m55.980s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.009s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.009s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.009s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.009s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.009s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.009s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.009s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.009s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.009s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.008s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.009s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.008s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.008s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.008s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.009s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.009s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.008s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.008s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.008s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 128
+
+real	0m0.008s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.112s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.108s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.112s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.112s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.112s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.104s
+sys	0m0.012s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.031s
+user	0m0.112s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.031s
+user	0m0.112s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 256
+
+real	0m0.030s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.117s
+user	0m0.460s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.116s
+user	0m0.460s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.116s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.116s
+user	0m0.460s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.115s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.115s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.128s
+user	0m0.460s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.116s
+user	0m0.460s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.116s
+user	0m0.460s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.116s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.115s
+user	0m0.452s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.115s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.116s
+user	0m0.460s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.116s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.115s
+user	0m0.452s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.116s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.117s
+user	0m0.464s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.116s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.117s
+user	0m0.464s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 512
+
+real	0m0.115s
+user	0m0.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.457s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.454s
+user	0m1.812s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.458s
+user	0m1.824s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.455s
+user	0m1.816s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.455s
+user	0m1.812s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.459s
+user	0m1.832s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.456s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.454s
+user	0m1.812s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.455s
+user	0m1.816s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.456s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.457s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.453s
+user	0m1.808s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.457s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.456s
+user	0m1.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.454s
+user	0m1.808s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.455s
+user	0m1.812s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.455s
+user	0m1.812s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.459s
+user	0m1.824s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.453s
+user	0m1.808s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 1024
+
+real	0m0.455s
+user	0m1.816s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.817s
+user	0m7.264s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.822s
+user	0m7.280s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.818s
+user	0m7.264s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.819s
+user	0m7.268s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.827s
+user	0m7.300s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.818s
+user	0m7.264s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.833s
+user	0m7.324s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.820s
+user	0m7.272s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.822s
+user	0m7.284s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.815s
+user	0m7.256s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.827s
+user	0m7.300s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.828s
+user	0m7.304s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.833s
+user	0m7.324s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.821s
+user	0m7.272s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.817s
+user	0m7.264s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.820s
+user	0m7.272s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.827s
+user	0m7.300s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.818s
+user	0m7.264s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.818s
+user	0m7.252s
+sys	0m0.012s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 2048
+
+real	0m1.826s
+user	0m7.296s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.260s
+user	0m29.024s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.265s
+user	0m29.048s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.300s
+user	0m29.180s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.276s
+user	0m29.088s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.280s
+user	0m29.104s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.289s
+user	0m29.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.317s
+user	0m29.252s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.306s
+user	0m29.196s
+sys	0m0.012s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.323s
+user	0m29.280s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.315s
+user	0m29.248s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.283s
+user	0m29.116s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.255s
+user	0m29.012s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.291s
+user	0m29.152s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.290s
+user	0m29.148s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.272s
+user	0m29.072s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.256s
+user	0m29.016s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.278s
+user	0m29.092s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.299s
+user	0m29.184s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.254s
+user	0m28.996s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 4096
+
+real	0m7.275s
+user	0m29.092s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.068s
+user	1m56.252s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.047s
+user	1m56.156s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.043s
+user	1m56.152s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.182s
+user	1m56.700s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.038s
+user	1m56.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.155s
+user	1m56.592s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.137s
+user	1m56.524s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.050s
+user	1m56.164s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.130s
+user	1m56.500s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.180s
+user	1m56.688s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.139s
+user	1m56.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.276s
+user	1m57.084s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.182s
+user	1m56.708s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.131s
+user	1m56.504s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.193s
+user	1m56.736s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.198s
+user	1m56.760s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.184s
+user	1m56.704s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.165s
+user	1m56.636s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.205s
+user	1m56.800s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 4 8192
+
+real	0m29.104s
+user	1m56.380s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 64
+
+real	0m0.002s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.000s
+sys	0m0.028s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 128
+
+real	0m0.005s
+user	0m0.028s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.120s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.120s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.120s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.112s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.120s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.120s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.120s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 256
+
+real	0m0.016s
+user	0m0.116s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.059s
+user	0m0.460s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.060s
+user	0m0.468s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.059s
+user	0m0.464s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.069s
+user	0m0.540s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.068s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.069s
+user	0m0.544s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.069s
+user	0m0.544s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.068s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.070s
+user	0m0.552s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.069s
+user	0m0.544s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.070s
+user	0m0.548s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.070s
+user	0m0.552s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.068s
+user	0m0.536s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.069s
+user	0m0.540s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.069s
+user	0m0.540s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.068s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.070s
+user	0m0.540s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.072s
+user	0m0.560s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.069s
+user	0m0.540s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 512
+
+real	0m0.069s
+user	0m0.540s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.270s
+user	0m2.148s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.270s
+user	0m2.152s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.295s
+user	0m2.348s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.272s
+user	0m2.160s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.269s
+user	0m2.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.271s
+user	0m2.144s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.273s
+user	0m2.172s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.279s
+user	0m2.224s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.270s
+user	0m2.148s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.270s
+user	0m2.148s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.275s
+user	0m2.192s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.270s
+user	0m2.152s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.269s
+user	0m2.144s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.272s
+user	0m2.168s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.270s
+user	0m2.152s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.270s
+user	0m2.148s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.269s
+user	0m2.144s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.270s
+user	0m2.148s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.269s
+user	0m2.144s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 1024
+
+real	0m0.271s
+user	0m2.152s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.072s
+user	0m8.568s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.073s
+user	0m8.564s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.072s
+user	0m8.560s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.074s
+user	0m8.580s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.073s
+user	0m8.564s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.075s
+user	0m8.588s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.077s
+user	0m8.600s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.075s
+user	0m8.592s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.075s
+user	0m8.588s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.074s
+user	0m8.580s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.072s
+user	0m8.564s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.081s
+user	0m8.596s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.074s
+user	0m8.580s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.075s
+user	0m8.580s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.075s
+user	0m8.580s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.075s
+user	0m8.580s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.078s
+user	0m8.564s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.071s
+user	0m8.560s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.072s
+user	0m8.560s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 2048
+
+real	0m1.071s
+user	0m8.552s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.286s
+user	0m34.264s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.290s
+user	0m34.300s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.298s
+user	0m34.360s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.288s
+user	0m34.272s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.284s
+user	0m34.244s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.281s
+user	0m34.216s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.286s
+user	0m34.260s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.290s
+user	0m34.284s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.284s
+user	0m34.240s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.287s
+user	0m34.272s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.288s
+user	0m34.288s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.290s
+user	0m34.296s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.285s
+user	0m34.248s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.286s
+user	0m34.268s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.282s
+user	0m34.232s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.289s
+user	0m34.272s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.277s
+user	0m34.188s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.288s
+user	0m34.272s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.292s
+user	0m34.292s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 4096
+
+real	0m4.281s
+user	0m34.220s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.121s
+user	2m16.924s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.122s
+user	2m16.896s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.114s
+user	2m16.860s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.107s
+user	2m16.796s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.130s
+user	2m17.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.126s
+user	2m16.952s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.112s
+user	2m16.836s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.119s
+user	2m16.892s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.115s
+user	2m16.860s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.114s
+user	2m16.836s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.123s
+user	2m16.896s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.108s
+user	2m16.788s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.107s
+user	2m16.800s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.106s
+user	2m16.780s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.129s
+user	2m16.988s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.099s
+user	2m16.736s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.105s
+user	2m16.768s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.103s
+user	2m16.760s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.093s
+user	2m16.684s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 8 8192
+
+real	0m17.109s
+user	2m16.816s
+sys	0m0.016s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 32
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.004s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.007s
+user	0m0.036s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.007s
+user	0m0.032s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.036s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.008s
+user	0m0.044s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.028s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.007s
+user	0m0.036s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.016s
+sys	0m0.016s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.006s
+user	0m0.028s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 128
+
+real	0m0.007s
+user	0m0.036s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.018s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.018s
+user	0m0.128s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.022s
+user	0m0.148s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.019s
+user	0m0.128s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.021s
+user	0m0.148s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.018s
+user	0m0.136s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.019s
+user	0m0.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.020s
+user	0m0.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.019s
+user	0m0.136s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.020s
+user	0m0.148s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.018s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.070s
+user	0m0.532s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.071s
+user	0m0.544s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.070s
+user	0m0.532s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.069s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.086s
+user	0m0.672s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.076s
+user	0m0.580s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.069s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.070s
+user	0m0.528s
+sys	0m0.012s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.069s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.077s
+user	0m0.596s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.069s
+user	0m0.532s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.069s
+user	0m0.532s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.070s
+user	0m0.540s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.069s
+user	0m0.532s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.077s
+user	0m0.600s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.069s
+user	0m0.532s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.078s
+user	0m0.596s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.069s
+user	0m0.528s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.069s
+user	0m0.532s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 512
+
+real	0m0.069s
+user	0m0.532s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.271s
+user	0m2.144s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.271s
+user	0m2.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.270s
+user	0m2.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.270s
+user	0m2.144s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.271s
+user	0m2.144s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.271s
+user	0m2.132s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.272s
+user	0m2.148s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.270s
+user	0m2.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.270s
+user	0m2.136s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.271s
+user	0m2.140s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.271s
+user	0m2.144s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.269s
+user	0m2.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.271s
+user	0m2.136s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.270s
+user	0m2.136s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.270s
+user	0m2.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.270s
+user	0m2.136s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.270s
+user	0m2.136s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.277s
+user	0m2.192s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.271s
+user	0m2.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 1024
+
+real	0m0.272s
+user	0m2.152s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.083s
+user	0m8.624s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.077s
+user	0m8.592s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.083s
+user	0m8.624s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.077s
+user	0m8.592s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.086s
+user	0m8.656s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.076s
+user	0m8.572s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.078s
+user	0m8.588s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.151s
+user	0m9.172s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.075s
+user	0m8.576s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.085s
+user	0m8.648s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.081s
+user	0m8.624s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.075s
+user	0m8.576s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.085s
+user	0m8.640s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.076s
+user	0m8.584s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.081s
+user	0m8.608s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.078s
+user	0m8.600s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.078s
+user	0m8.584s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.080s
+user	0m8.604s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.082s
+user	0m8.620s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 2048
+
+real	0m1.084s
+user	0m8.632s
+sys	0m0.016s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.316s
+user	0m34.476s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.310s
+user	0m34.420s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.354s
+user	0m34.768s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.316s
+user	0m34.484s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.322s
+user	0m34.524s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.317s
+user	0m34.496s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.358s
+user	0m34.824s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.323s
+user	0m34.532s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.350s
+user	0m34.756s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.309s
+user	0m34.440s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.313s
+user	0m34.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.314s
+user	0m34.456s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.312s
+user	0m34.456s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.310s
+user	0m34.448s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.310s
+user	0m34.444s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.313s
+user	0m34.472s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.316s
+user	0m34.476s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.322s
+user	0m34.544s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.397s
+user	0m35.144s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 4096
+
+real	0m4.309s
+user	0m34.444s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.259s
+user	2m17.992s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.245s
+user	2m17.872s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.256s
+user	2m17.996s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.255s
+user	2m17.944s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.235s
+user	2m17.820s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.245s
+user	2m17.896s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.242s
+user	2m17.872s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.282s
+user	2m18.200s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.276s
+user	2m18.156s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.372s
+user	2m18.868s
+sys	0m0.024s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.254s
+user	2m17.912s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.248s
+user	2m17.924s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.398s
+user	2m19.120s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.241s
+user	2m17.856s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.244s
+user	2m17.840s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.230s
+user	2m17.776s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.281s
+user	2m18.172s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.231s
+user	2m17.812s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.254s
+user	2m17.976s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 16 8192
+
+real	0m17.249s
+user	2m17.944s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 16
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 32
+
+real	0m0.002s
+user	0m0.004s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.012s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.012s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.004s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.012s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.012s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.012s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.004s
+user	0m0.012s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 64
+
+real	0m0.003s
+user	0m0.008s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.036s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.007s
+user	0m0.032s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.036s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.036s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.036s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.007s
+user	0m0.040s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.040s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.028s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.028s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.006s
+user	0m0.032s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.007s
+user	0m0.036s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.007s
+user	0m0.040s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.007s
+user	0m0.040s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 128
+
+real	0m0.007s
+user	0m0.028s
+sys	0m0.008s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.021s
+user	0m0.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.020s
+user	0m0.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.022s
+user	0m0.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.128s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.021s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.136s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.136s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.020s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.136s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.124s
+sys	0m0.012s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.021s
+user	0m0.132s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.136s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 256
+
+real	0m0.019s
+user	0m0.132s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.070s
+user	0m0.540s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.070s
+user	0m0.532s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.070s
+user	0m0.528s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.070s
+user	0m0.532s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.069s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.070s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.070s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.069s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.070s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.071s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.070s
+user	0m0.540s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.070s
+user	0m0.532s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.072s
+user	0m0.532s
+sys	0m0.016s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.076s
+user	0m0.576s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.070s
+user	0m0.532s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.073s
+user	0m0.560s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.078s
+user	0m0.596s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.070s
+user	0m0.532s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.070s
+user	0m0.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 512
+
+real	0m0.072s
+user	0m0.544s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.271s
+user	0m2.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.271s
+user	0m2.144s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.274s
+user	0m2.164s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.272s
+user	0m2.132s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.271s
+user	0m2.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.271s
+user	0m2.144s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.274s
+user	0m2.168s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.270s
+user	0m2.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.272s
+user	0m2.156s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.280s
+user	0m2.204s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.271s
+user	0m2.144s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.270s
+user	0m2.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.272s
+user	0m2.144s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.269s
+user	0m2.136s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.270s
+user	0m2.136s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.271s
+user	0m2.144s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.272s
+user	0m2.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.270s
+user	0m2.136s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.299s
+user	0m2.360s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 1024
+
+real	0m0.270s
+user	0m2.140s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.085s
+user	0m8.636s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.085s
+user	0m8.636s
+sys	0m0.012s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.098s
+user	0m8.752s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.081s
+user	0m8.612s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.086s
+user	0m8.632s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.083s
+user	0m8.632s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.080s
+user	0m8.604s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.078s
+user	0m8.584s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.083s
+user	0m8.628s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.091s
+user	0m8.692s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.085s
+user	0m8.648s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.080s
+user	0m8.608s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.082s
+user	0m8.632s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.083s
+user	0m8.608s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.080s
+user	0m8.596s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.080s
+user	0m8.608s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.078s
+user	0m8.600s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.080s
+user	0m8.612s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.084s
+user	0m8.632s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 2048
+
+real	0m1.080s
+user	0m8.592s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.331s
+user	0m34.620s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.327s
+user	0m34.568s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.338s
+user	0m34.676s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.330s
+user	0m34.604s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.334s
+user	0m34.592s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.328s
+user	0m34.592s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.328s
+user	0m34.588s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.363s
+user	0m34.864s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.330s
+user	0m34.592s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.344s
+user	0m34.684s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.334s
+user	0m34.608s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.332s
+user	0m34.616s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.366s
+user	0m34.868s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.336s
+user	0m34.644s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.339s
+user	0m34.664s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.346s
+user	0m34.688s
+sys	0m0.020s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.330s
+user	0m34.592s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.338s
+user	0m34.656s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.356s
+user	0m34.788s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 4096
+
+real	0m4.335s
+user	0m34.640s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.355s
+user	2m18.776s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.336s
+user	2m18.588s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.407s
+user	2m19.196s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.353s
+user	2m18.776s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.338s
+user	2m18.616s
+sys	0m0.032s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.316s
+user	2m18.444s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.388s
+user	2m19.044s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.306s
+user	2m18.392s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.323s
+user	2m18.524s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.490s
+user	2m19.856s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.450s
+user	2m19.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.424s
+user	2m19.308s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.320s
+user	2m18.512s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.323s
+user	2m18.536s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.324s
+user	2m18.548s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.316s
+user	2m18.484s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.333s
+user	2m18.620s
+sys	0m0.000s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.424s
+user	2m19.324s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.464s
+user	2m19.640s
+sys	0m0.004s
++ ./mandelbrot_omp_withoutIO -0.188 -0.012 0.554 0.754 32 8192
+
+real	0m17.347s
+user	2m18.728s
+sys	0m0.000s
