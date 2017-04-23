@@ -54,7 +54,8 @@ void allocate_image_buffer(){
 
     image_buffer = (unsigned char **) malloc(sizeof(unsigned char *) * image_buffer_size);
 
-    for (int i = 0; i < image_buffer_size; i++) {
+    int i;
+    for (i = 0; i < image_buffer_size; i++) {
         image_buffer[i] = (unsigned char *) malloc(sizeof(unsigned char) * RGB_SIZE);
     };
 
@@ -127,7 +128,8 @@ void write_to_file() {
     fprintf(file, "P6\n %s\n %d\n %d\n %d\n", comment,
             ix_max, iy_max, max_color_component_value);
 
-    for(int i = 0; i < image_buffer_size; i++){
+    int i;
+    for(i = 0; i < image_buffer_size; i++){
         fwrite(image_buffer[i], 1 , 3, file);
     };
 
@@ -165,7 +167,8 @@ void compute_mandelbrot(){
 
             cy = cy_min + iy * pixel_height;
 
-            for (int ix = 0; ix < image_size; ix++) {
+            int ix;
+            for (ix = 0; ix < image_size; ix++) {
 
                 cx = cx_min + ix * pixel_width;
 
