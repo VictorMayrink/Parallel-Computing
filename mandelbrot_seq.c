@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include <pthread.h>
+#include "time_utils.h"
 
 double c_x_min;
 double c_x_max;
@@ -14,8 +14,7 @@ double pixel_height;
 int iteration_max = 200;
 
 int image_size;
-int rgb_size = 3;
-unsigned char *image_buffer;
+unsigned char **image_buffer;
 
 int i_x_max;
 int i_y_max;
@@ -39,34 +38,36 @@ int colors[17][3] = {
                         {204, 128, 0},
                         {153, 87, 0},
                         {106, 52, 3},
-                        {16, 16, 16},
+                        {0, 0, 0},
                     };
-
-
-int nthreads;
-pthread_t * thread_pool;
 
 #define STEPS_SIZE 3
 
+void allocate_image_buffer(){
+    int rgb_size = 3;
+    image_buffer = (unsigned char **) malloc(sizeof(unsigned char *) * image_buffer_size);
+
+    for(int i = 0; i < image_buffer_size; i++){
+        image_buffer[i] = (unsigned char *) malloc(sizeof(unsigned char) * rgb_size);
+    };
+};
+
 void init(int argc, char *argv[]){
     if(argc < 6){
-        printf("usage: ./mandelbrot_pth c_x_min c_x_max c_y_min c_y_max image_size\n");
+        printf("usage: ./mandelbrot_seq c_x_min c_x_max c_y_min c_y_max image_size\n");
         printf("examples with image_size = 11500:\n");
-        printf("    Full Picture:         ./mandelbrot_pth -2.5 1.5 -2.0 2.0 11500\n");
-        printf("    Seahorse Valley:      ./mandelbrot_pth -0.8 -0.7 0.05 0.15 11500\n");
-        printf("    Elephant Valley:      ./mandelbrot_pth 0.175 0.375 -0.1 0.1 11500\n");
-        printf("    Triple Spiral Valley: ./mandelbrot_pth -0.188 -0.012 0.554 0.754 11500\n");
+        printf("    Full Picture:         ./mandelbrot_seq -2.5 1.5 -2.0 2.0 11500\n");
+        printf("    Seahorse Valley:      ./mandelbrot_seq -0.8 -0.7 0.05 0.15 11500\n");
+        printf("    Elephant Valley:      ./mandelbrot_seq 0.175 0.375 -0.1 0.1 11500\n");
+        printf("    Triple Spiral Valley: ./mandelbrot_seq -0.188 -0.012 0.554 0.754 11500\n");
         exit(0);
     }
-    else{
+    else {
         sscanf(argv[1], "%lf", &c_x_min);
         sscanf(argv[2], "%lf", &c_x_max);
         sscanf(argv[3], "%lf", &c_y_min);
         sscanf(argv[4], "%lf", &c_y_max);
-        sscanf(argv[5], "%d", &nthreads);
-        sscanf(argv[6], "%d", &image_size);
-
-        thread_pool = (pthread_t *) malloc(sizeof(pthread_t) * nthreads);
+        sscanf(argv[5], "%d", &image_size);
 
         i_x_max           = image_size;
         i_y_max           = image_size;
@@ -78,22 +79,22 @@ void init(int argc, char *argv[]){
 };
 
 void update_rgb_buffer(int iteration, int x, int y){
+    int color;
 
-    unsigned char* tmp_pointer;
-    int color = gradient_size;
+    if(iteration == iteration_max){
+        color = 16;
 
-    if(iteration != iteration_max){
+        image_buffer[(i_y_max * y) + x][0] = color;
+        image_buffer[(i_y_max * y) + x][1] = color;
+        image_buffer[(i_y_max * y) + x][2] = color;
+    }
+    else {
         color = iteration % gradient_size;
+
+        image_buffer[(i_y_max * y) + x][0] = colors[color][0];
+        image_buffer[(i_y_max * y) + x][1] = colors[color][1];
+        image_buffer[(i_y_max * y) + x][2] = colors[color][2];
     };
-
-    tmp_pointer  = image_buffer + (((i_y_max * y) + x) * rgb_size);
-    *tmp_pointer = (unsigned char)colors[color][0];
-
-    tmp_pointer  += 1;
-    *tmp_pointer = (unsigned char)colors[color][1];
-
-    tmp_pointer  += 1;
-    *tmp_pointer = (unsigned char)colors[color][2];
 };
 
 void write_to_file(){
@@ -108,26 +109,14 @@ void write_to_file(){
     fprintf(file, "P6\n %s\n %d\n %d\n %d\n", comment,
             i_x_max, i_y_max, max_color_component_value);
 
-    fwrite(image_buffer, 1, 3 * image_buffer_size, file);
+    for(int i = 0; i < image_buffer_size; i++){
+        fwrite(image_buffer[i], 1 , 3, file);
+    };
 
     fclose(file);
 };
 
-void* compute_mandelbrotX(void* args){
-
-
-    double* args_arr = (double *) args;
-    int init = (int)args_arr[0];
-    int end = (int)args_arr[1];
-    double c_y = args_arr[2];
-    int i_y = (int)args_arr[3];
-
-    
-    return NULL;
-}
-
-void* compute_mandelbrot(void* args){
-
+void compute_mandelbrot(){
     double z_x;
     double z_y;
     double z_x_squared;
@@ -141,14 +130,10 @@ void* compute_mandelbrot(void* args){
     double c_x;
     double c_y;
 
-    int* args_arr = (int *) args;
-    int init = args_arr[0];
-    int end = args_arr[1];
-
-    for(i_y = init; i_y < end; i_y++){
+    for(i_y = 0; i_y < i_y_max; i_y++){
         c_y = c_y_min + i_y * pixel_height;
 
-        if(fabs(c_y) < pixel_height / 2){
+        if (fabs(c_y) < pixel_height / 2){
             c_y = 0.0;
         };
 
@@ -175,44 +160,26 @@ void* compute_mandelbrot(void* args){
             update_rgb_buffer(iteration, i_x, i_y);
         };
     };
-    return NULL;
 };
 
-void call_mandelbrot(){
-
-    int chunk = i_y_max/nthreads;
-    int init, end, i;
-    for(i = init = 0, end = chunk; i < nthreads; end += chunk, init += chunk, i++){
-
-        if(end + chunk > i_y_max)
-            end = i_y_max;
-
-        int * args = (int *) malloc(sizeof(int) * 2);
-        args[0] = init;
-        args[1] = end;
-        pthread_create(&thread_pool[i], NULL, compute_mandelbrot, (void *) args);
-    };
-}
-
 int main(int argc, char *argv[]){
-
-    struct timespec init_t, end_t;
-    double elapsed;
     init(argc, argv);
+    struct timespec wc_start[STEPS_SIZE], wc_end[STEPS_SIZE];
+    double cpu_start[STEPS_SIZE], cpu_end[STEPS_SIZE];
 
-    image_buffer = (unsigned char *) malloc(sizeof(unsigned char) * 3 * image_buffer_size);
+    start_timers(cpu_start, wc_start, alloc);
+    allocate_image_buffer();
+    end_timers(cpu_end, wc_end, alloc);
 
-    clock_gettime(CLOCK_MONOTONIC, &init_t);
-    int i = 0;
-    call_mandelbrot();
-    for(i = 0; i < nthreads; i++)
-        pthread_join(thread_pool[i], NULL);
-    clock_gettime(CLOCK_MONOTONIC, &end_t);
+    start_timers(cpu_start, wc_start, calc);
+    compute_mandelbrot();
+    end_timers(cpu_end, wc_end, calc);
 
-    elapsed = end_t.tv_sec - init_t.tv_sec;
-    elapsed += fabs((end_t.tv_nsec - init_t.tv_nsec) / 1000000000.0);
-
+    start_timers(cpu_start, wc_start, ioops);
     write_to_file();
+    end_timers(cpu_end, wc_end, ioops);
+
+    print_like_time(cpu_start, wc_start, cpu_end, wc_end);
 
     return 0;
 };

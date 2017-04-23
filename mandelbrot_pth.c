@@ -1,7 +1,7 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 #include <pthread.h>
+#include "time_utils.h"
 
 double c_x_min;
 double c_x_max;
@@ -42,23 +42,24 @@ int colors[17][3] = {
                         {16, 16, 16},
                     };
 
-
 int nthreads;
 pthread_t * thread_pool;
 
 #define STEPS_SIZE 3
 
 void init(int argc, char *argv[]){
-    if(argc < 6){
-        printf("usage: ./mandelbrot_pth c_x_min c_x_max c_y_min c_y_max image_size\n");
+    if (argc < 7) {
+
+        printf("usage: ./mandelbrot_pth cx_min cx_max cy_min cy_max nthreads image_size\n");
         printf("examples with image_size = 11500:\n");
-        printf("    Full Picture:         ./mandelbrot_pth -2.5 1.5 -2.0 2.0 11500\n");
-        printf("    Seahorse Valley:      ./mandelbrot_pth -0.8 -0.7 0.05 0.15 11500\n");
-        printf("    Elephant Valley:      ./mandelbrot_pth 0.175 0.375 -0.1 0.1 11500\n");
-        printf("    Triple Spiral Valley: ./mandelbrot_pth -0.188 -0.012 0.554 0.754 11500\n");
+        printf("    Full Picture:         ./mandelbrot_pth -2.5 1.5 -2.0 2.0 8 11500\n");
+        printf("    Seahorse Valley:      ./mandelbrot_pth -0.8 -0.7 0.05 0.15 8 11500\n");
+        printf("    Elephant Valley:      ./mandelbrot_pth 0.175 0.375 -0.1 0.1 8 11500\n");
+        printf("    Triple Spiral Valley: ./mandelbrot_pth -0.188 -0.012 0.554 0.754 8 11500\n");
         exit(0);
-    }
-    else{
+
+    } else {
+
         sscanf(argv[1], "%lf", &c_x_min);
         sscanf(argv[2], "%lf", &c_x_max);
         sscanf(argv[3], "%lf", &c_y_min);
@@ -113,18 +114,6 @@ void write_to_file(){
     fclose(file);
 };
 
-void* compute_mandelbrotX(void* args){
-
-
-    double* args_arr = (double *) args;
-    int init = (int)args_arr[0];
-    int end = (int)args_arr[1];
-    double c_y = args_arr[2];
-    int i_y = (int)args_arr[3];
-
-    
-    return NULL;
-}
 
 void* compute_mandelbrot(void* args){
 
@@ -194,25 +183,29 @@ void call_mandelbrot(){
     };
 }
 
+
 int main(int argc, char *argv[]){
 
-    struct timespec init_t, end_t;
-    double elapsed;
     init(argc, argv);
+    struct timespec wc_start[STEPS_SIZE], wc_end[STEPS_SIZE];
+    double cpu_start[STEPS_SIZE], cpu_end[STEPS_SIZE];
 
+    start_timers(cpu_start, wc_start, alloc);
     image_buffer = (unsigned char *) malloc(sizeof(unsigned char) * 3 * image_buffer_size);
+    end_timers(cpu_end, wc_end, alloc);
 
-    clock_gettime(CLOCK_MONOTONIC, &init_t);
+    start_timers(cpu_start, wc_start, calc);
     int i = 0;
     call_mandelbrot();
     for(i = 0; i < nthreads; i++)
         pthread_join(thread_pool[i], NULL);
-    clock_gettime(CLOCK_MONOTONIC, &end_t);
+    end_timers(cpu_end, wc_end, calc);
 
-    elapsed = end_t.tv_sec - init_t.tv_sec;
-    elapsed += fabs((end_t.tv_nsec - init_t.tv_nsec) / 1000000000.0);
-
+    start_timers(cpu_start, wc_start, ioops);
     write_to_file();
+    end_timers(cpu_end, wc_end, ioops);
+
+    print_like_time(cpu_start, wc_start, cpu_end, wc_end);
 
     return 0;
 };

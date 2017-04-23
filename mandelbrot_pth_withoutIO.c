@@ -42,11 +42,11 @@ int colors[17][3] = {
                         {16, 16, 16},
                     };
 
-#define MAX_THREADS 32
 
-pthread_mutex_t cs_mutex;
-pthread_t thread_pool[MAX_THREADS];
+int nthreads;
+pthread_t * thread_pool;
 
+#define STEPS_SIZE 3
 
 void init(int argc, char *argv[]){
     if(argc < 6){
@@ -63,7 +63,10 @@ void init(int argc, char *argv[]){
         sscanf(argv[2], "%lf", &c_x_max);
         sscanf(argv[3], "%lf", &c_y_min);
         sscanf(argv[4], "%lf", &c_y_max);
-        sscanf(argv[5], "%d", &image_size);
+        sscanf(argv[5], "%d", &nthreads);
+        sscanf(argv[6], "%d", &image_size);
+
+        thread_pool = (pthread_t *) malloc(sizeof(pthread_t) * nthreads);
 
         i_x_max           = image_size;
         i_y_max           = image_size;
@@ -177,9 +180,9 @@ void* compute_mandelbrot(void* args){
 
 void call_mandelbrot(){
 
-    int chunk = i_y_max/MAX_THREADS;
+    int chunk = i_y_max/nthreads;
     int init, end, i;
-    for(i = init = 0, end = chunk; i < MAX_THREADS; end += chunk, init += chunk, i++){
+    for(i = init = 0, end = chunk; i < nthreads; end += chunk, init += chunk, i++){
 
         if(end + chunk > i_y_max)
             end = i_y_max;
@@ -202,16 +205,12 @@ int main(int argc, char *argv[]){
     clock_gettime(CLOCK_MONOTONIC, &init_t);
     int i = 0;
     call_mandelbrot();
-    for(i = 0; i < MAX_THREADS; i++)
+    for(i = 0; i < nthreads; i++)
         pthread_join(thread_pool[i], NULL);
     clock_gettime(CLOCK_MONOTONIC, &end_t);
 
     elapsed = end_t.tv_sec - init_t.tv_sec;
     elapsed += fabs((end_t.tv_nsec - init_t.tv_nsec) / 1000000000.0);
-
-    // Esse eh o tempo de relogio...
-    // Da pra medir o tempo de CPU usando time_t var = time()
-    printf("TIME SPENT: %lf\n", elapsed);
 
     write_to_file();
 
