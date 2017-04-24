@@ -7,3 +7,4 @@ mandelbrot_pth_withoutIO
 mandelbrot_seq
 mandelbrot_seq_withIO
 mandelbrot_seq_withoutIO
+output.ppm
