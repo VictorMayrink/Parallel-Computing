@@ -1,0 +1,2000 @@
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 16':
+
+          0.606271      task-clock (msec)         #    0.683 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.078 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.000887599 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 16':
+
+          0.614904      task-clock (msec)         #    0.711 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.076 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.000865383 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 16':
+
+          0.595159      task-clock (msec)         #    0.694 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.081 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.000857908 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 16':
+
+          0.587931      task-clock (msec)         #    0.691 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.082 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.000850666 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 16':
+
+          0.608688      task-clock (msec)         #    0.687 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.079 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.000886099 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 16':
+
+          0.610409      task-clock (msec)         #    0.665 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.079 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.000917411 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 16':
+
+          0.582184      task-clock (msec)         #    0.715 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.081 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.000814747 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 16':
+
+          0.587304      task-clock (msec)         #    0.726 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.082 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.000808756 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 16':
+
+          0.580734      task-clock (msec)         #    0.715 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.079 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.000811671 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 16':
+
+          0.574982      task-clock (msec)         #    0.735 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.082 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.000782364 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 32':
+
+          1.701189      task-clock (msec)         #    0.879 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.028 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.001935589 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 32':
+
+          1.705283      task-clock (msec)         #    0.883 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.028 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.001931050 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 32':
+
+          1.701832      task-clock (msec)         #    0.890 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.028 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.001912521 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 32':
+
+          1.714971      task-clock (msec)         #    0.888 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.028 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.001931283 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 32':
+
+          1.718970      task-clock (msec)         #    0.881 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.027 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.001950517 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 32':
+
+          1.716238      task-clock (msec)         #    0.878 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.027 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.001955224 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 32':
+
+          1.721400      task-clock (msec)         #    0.881 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.027 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.001954047 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 32':
+
+          1.696746      task-clock (msec)         #    0.886 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.028 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.001915119 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 32':
+
+          1.736292      task-clock (msec)         #    0.885 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.026 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.001961531 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 32':
+
+          1.716068      task-clock (msec)         #    0.899 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.028 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.001907904 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 64':
+
+          6.211916      task-clock (msec)         #    0.964 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.008 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.006442435 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 64':
+
+          6.193998      task-clock (msec)         #    0.958 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.008 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.006462574 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 64':
+
+          6.179648      task-clock (msec)         #    0.962 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.007 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.006424709 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 64':
+
+          6.207491      task-clock (msec)         #    0.952 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.008 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.006522777 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 64':
+
+          6.274670      task-clock (msec)         #    0.960 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.008 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.006534573 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 64':
+
+          6.215329      task-clock (msec)         #    0.966 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.008 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.006431447 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 64':
+
+          6.250467      task-clock (msec)         #    0.963 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.008 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.006488546 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 64':
+
+          6.201986      task-clock (msec)         #    0.966 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                45      page-faults               #    0.007 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.006420287 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 64':
+
+          6.261647      task-clock (msec)         #    0.966 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.008 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.006482474 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 64':
+
+          6.184561      task-clock (msec)         #    0.962 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.008 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.006426410 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 128':
+
+         23.998304      task-clock (msec)         #    0.991 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.002 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.024218857 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 128':
+
+         23.975634      task-clock (msec)         #    0.991 CPUs utilized          
+                 1      context-switches          #    0.042 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.002 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.024196734 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 128':
+
+         24.121186      task-clock (msec)         #    0.992 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.002 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.024321634 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 128':
+
+         24.029529      task-clock (msec)         #    0.990 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.002 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.024278373 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 128':
+
+         23.982286      task-clock (msec)         #    0.991 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.002 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.024197850 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 128':
+
+         23.973024      task-clock (msec)         #    0.991 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.002 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.024194677 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 128':
+
+         24.104547      task-clock (msec)         #    0.991 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.002 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.024321285 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 128':
+
+         24.045190      task-clock (msec)         #    0.991 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.002 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.024265666 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 128':
+
+         24.054643      task-clock (msec)         #    0.990 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.002 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.024303990 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 128':
+
+         24.008917      task-clock (msec)         #    0.988 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.002 M/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.024311021 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 256':
+
+         95.340413      task-clock (msec)         #    0.997 CPUs utilized          
+                 1      context-switches          #    0.010 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.482 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.095632779 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 256':
+
+         95.174137      task-clock (msec)         #    0.998 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.494 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.095410942 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 256':
+
+         95.542150      task-clock (msec)         #    0.997 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.502 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.095794441 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 256':
+
+         95.388137      task-clock (msec)         #    0.997 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.503 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.095648890 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 256':
+
+         95.299973      task-clock (msec)         #    0.997 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.504 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.095608362 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 256':
+
+         95.407934      task-clock (msec)         #    0.998 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.493 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.095638498 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 256':
+
+         95.078760      task-clock (msec)         #    0.998 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.494 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.095309096 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 256':
+
+         95.497115      task-clock (msec)         #    0.997 CPUs utilized          
+                 2      context-switches          #    0.021 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.492 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.095818311 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 256':
+
+         95.098109      task-clock (msec)         #    0.997 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.505 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.095348739 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 256':
+
+         95.231321      task-clock (msec)         #    0.998 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.494 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.095466823 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 512':
+
+        380.341064      task-clock (msec)         #    0.999 CPUs utilized          
+                 2      context-switches          #    0.005 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.121 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.380612839 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 512':
+
+        380.203798      task-clock (msec)         #    0.999 CPUs utilized          
+                 1      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.124 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.380468068 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 512':
+
+        380.365024      task-clock (msec)         #    0.999 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.126 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.380637204 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 512':
+
+        383.142475      task-clock (msec)         #    0.999 CPUs utilized          
+                 1      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.125 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.383403823 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 512':
+
+        379.850853      task-clock (msec)         #    0.999 CPUs utilized          
+                 2      context-switches          #    0.005 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.124 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.380183895 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 512':
+
+        381.920338      task-clock (msec)         #    0.999 CPUs utilized          
+                 1      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.120 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.382217792 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 512':
+
+        380.256195      task-clock (msec)         #    0.999 CPUs utilized          
+                 2      context-switches          #    0.005 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.124 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.380627235 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 512':
+
+        380.507780      task-clock (msec)         #    0.999 CPUs utilized          
+                 0      context-switches          #    0.000 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.124 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.380748650 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 512':
+
+        379.783289      task-clock (msec)         #    0.999 CPUs utilized          
+                 1      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                49      page-faults               #    0.129 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.380071043 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 512':
+
+        380.087439      task-clock (msec)         #    0.999 CPUs utilized          
+                 1      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.124 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       0.380389745 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 1024':
+
+       1519.684204      task-clock (msec)         #    1.000 CPUs utilized          
+                 3      context-switches          #    0.002 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.031 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       1.519981997 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 1024':
+
+       1521.229752      task-clock (msec)         #    1.000 CPUs utilized          
+                 4      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.032 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       1.521590816 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 1024':
+
+       1519.041677      task-clock (msec)         #    1.000 CPUs utilized          
+                 4      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.032 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       1.519361862 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 1024':
+
+       1517.117386      task-clock (msec)         #    1.000 CPUs utilized          
+                 4      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.031 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       1.517455152 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 1024':
+
+       1517.910511      task-clock (msec)         #    1.000 CPUs utilized          
+                 4      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.031 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       1.518231005 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 1024':
+
+       1517.149845      task-clock (msec)         #    1.000 CPUs utilized          
+                 5      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.032 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       1.517467642 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 1024':
+
+       1519.607338      task-clock (msec)         #    1.000 CPUs utilized          
+                 4      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.030 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       1.519929255 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 1024':
+
+       1518.045089      task-clock (msec)         #    1.000 CPUs utilized          
+                 5      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.030 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       1.518371638 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 1024':
+
+       1519.707196      task-clock (msec)         #    1.000 CPUs utilized          
+                 5      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.032 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       1.520055887 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 1024':
+
+       1518.154611      task-clock (msec)         #    1.000 CPUs utilized          
+                 5      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.032 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       1.518523994 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 2048':
+
+       6078.087018      task-clock (msec)         #    1.000 CPUs utilized          
+                16      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.008 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       6.078536763 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 2048':
+
+       6074.208823      task-clock (msec)         #    1.000 CPUs utilized          
+                17      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.008 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       6.074715052 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 2048':
+
+       6077.787712      task-clock (msec)         #    1.000 CPUs utilized          
+                17      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.008 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       6.078237120 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 2048':
+
+       6076.073471      task-clock (msec)         #    1.000 CPUs utilized          
+                17      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.008 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       6.076521355 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 2048':
+
+       6079.815994      task-clock (msec)         #    1.000 CPUs utilized          
+                16      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.008 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       6.080318961 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 2048':
+
+       6072.634482      task-clock (msec)         #    1.000 CPUs utilized          
+                17      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.008 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       6.073115514 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 2048':
+
+       6071.263537      task-clock (msec)         #    1.000 CPUs utilized          
+                17      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.008 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       6.071746104 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 2048':
+
+       6081.876793      task-clock (msec)         #    1.000 CPUs utilized          
+                16      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.008 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       6.082363827 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 2048':
+
+       6078.251258      task-clock (msec)         #    1.000 CPUs utilized          
+                16      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.008 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       6.078760497 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 2048':
+
+       6074.236079      task-clock (msec)         #    1.000 CPUs utilized          
+                18      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.008 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+       6.074690269 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 4096':
+
+      24310.525174      task-clock (msec)         #    1.000 CPUs utilized          
+                67      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.002 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      24.311670777 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 4096':
+
+      24305.246234      task-clock (msec)         #    1.000 CPUs utilized          
+                66      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.002 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      24.306366188 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 4096':
+
+      24315.307253      task-clock (msec)         #    1.000 CPUs utilized          
+                66      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.002 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      24.316412609 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 4096':
+
+      24321.792770      task-clock (msec)         #    1.000 CPUs utilized          
+                67      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.002 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      24.322895074 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 4096':
+
+      24298.125409      task-clock (msec)         #    1.000 CPUs utilized          
+                66      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.002 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      24.299214965 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 4096':
+
+      24299.788072      task-clock (msec)         #    1.000 CPUs utilized          
+                67      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.002 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      24.300908346 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 4096':
+
+      24306.182686      task-clock (msec)         #    1.000 CPUs utilized          
+                67      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.002 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      24.307250372 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 4096':
+
+      24334.978060      task-clock (msec)         #    1.000 CPUs utilized          
+                67      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.002 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      24.336062560 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 4096':
+
+      24301.162182      task-clock (msec)         #    1.000 CPUs utilized          
+                66      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.002 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      24.302233324 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 4096':
+
+      24296.138842      task-clock (msec)         #    1.000 CPUs utilized          
+                67      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                46      page-faults               #    0.002 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      24.297206945 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 8192':
+
+      97170.738789      task-clock (msec)         #    1.000 CPUs utilized          
+               266      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.000 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      97.173960241 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 8192':
+
+      97202.728361      task-clock (msec)         #    1.000 CPUs utilized          
+               267      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.000 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      97.206160857 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 8192':
+
+      97290.732404      task-clock (msec)         #    1.000 CPUs utilized          
+               267      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.000 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      97.294191091 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 8192':
+
+      97192.652435      task-clock (msec)         #    1.000 CPUs utilized          
+               267      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.000 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      97.196076102 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 8192':
+
+      97185.307681      task-clock (msec)         #    1.000 CPUs utilized          
+               266      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.000 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      97.188539111 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 8192':
+
+      97309.959365      task-clock (msec)         #    1.000 CPUs utilized          
+               266      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.000 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      97.313443485 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 8192':
+
+      97268.554089      task-clock (msec)         #    1.000 CPUs utilized          
+               269      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.000 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      97.272045464 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 8192':
+
+      97194.089945      task-clock (msec)         #    1.000 CPUs utilized          
+               267      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                48      page-faults               #    0.000 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+      97.197525421 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 8192':
+
+     101606.670672      task-clock (msec)         #    1.000 CPUs utilized          
+               280      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.000 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+     101.612182535 seconds time elapsed
+
+
+ Performance counter stats for './mandelbrot_seq_withoutIO -0.188 -0.012 0.554 0.754 8192':
+
+     101285.056173      task-clock (msec)         #    1.000 CPUs utilized          
+               278      context-switches          #    0.003 K/sec                  
+                 0      cpu-migrations            #    0.000 K/sec                  
+                47      page-faults               #    0.000 K/sec                  
+   <not supported>      cycles                   
+   <not supported>      stalled-cycles-frontend  
+   <not supported>      stalled-cycles-backend   
+   <not supported>      instructions             
+   <not supported>      branches                 
+   <not supported>      branch-misses            
+   <not supported>      L1-dcache-loads          
+   <not supported>      L1-dcache-load-misses    
+   <not supported>      LLC-loads                
+   <not supported>      LLC-load-misses          
+
+     101.290389806 seconds time elapsed
+
