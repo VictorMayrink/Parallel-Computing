@@ -1,800 +1,1000 @@
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 16
+
 real    0m0.000s
 user    0m0.000s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.002s
 user    0m0.002s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 32
+
 real    0m0.001s
 user    0m0.001s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.005s
 user    0m0.005s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.005s
 user    0m0.005s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.005s
 user    0m0.005s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.005s
 user    0m0.005s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 64
+
 real    0m0.006s
 user    0m0.006s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.023s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.023s
 user    0m0.023s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.023s
 user    0m0.023s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 128
+
 real    0m0.022s
 user    0m0.022s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.089s
 user    0m0.089s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.092s
 user    0m0.092s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.089s
 user    0m0.089s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.089s
 user    0m0.089s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.088s
 user    0m0.088s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.087s
 user    0m0.087s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.089s
 user    0m0.089s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.089s
 user    0m0.089s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.088s
 user    0m0.088s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.089s
 user    0m0.089s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.086s
 user    0m0.086s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.089s
 user    0m0.089s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.091s
 user    0m0.091s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.090s
 user    0m0.090s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.089s
 user    0m0.089s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m1.911s
 user    0m0.089s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.089s
 user    0m0.089s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.088s
 user    0m0.088s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m1.912s
 user    0m0.088s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 256
+
 real    0m0.090s
 user    0m0.090s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m1.644s
 user    0m0.356s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m0.351s
 user    0m0.351s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m0.353s
 user    0m0.353s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m1.647s
 user    0m0.353s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m1.643s
 user    0m0.357s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m0.359s
 user    0m0.359s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m0.351s
 user    0m0.351s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m1.649s
 user    0m0.351s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m1.653s
 user    0m0.347s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m0.350s
 user    0m0.350s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m0.348s
 user    0m0.348s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m1.645s
 user    0m0.355s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m1.650s
 user    0m0.350s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m0.353s
 user    0m0.353s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m0.361s
 user    0m0.361s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m1.658s
 user    0m0.342s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m1.651s
 user    0m0.349s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m0.345s
 user    0m0.345s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m0.346s
 user    0m0.346s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 512
+
 real    0m0.342s
 user    0m0.342s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.388s
 user    0m1.388s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.386s
 user    0m1.386s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m2.621s
 user    0m1.379s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m2.575s
 user    0m1.425s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m2.586s
 user    0m1.414s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m2.581s
 user    0m1.419s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m2.608s
 user    0m1.392s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m2.600s
 user    0m1.400s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m2.630s
 user    0m1.370s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.405s
 user    0m1.405s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.378s
 user    0m1.378s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.388s
 user    0m1.388s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.396s
 user    0m1.396s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.421s
 user    0m1.421s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.417s
 user    0m1.417s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.421s
 user    0m1.420s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.409s
 user    0m1.409s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.420s
 user    0m1.420s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.409s
 user    0m1.409s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 1024
+
 real    0m1.408s
 user    0m1.408s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m6.454s
 user    0m5.546s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m5.540s
 user    0m5.540s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m5.653s
 user    0m5.653s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m6.478s
 user    0m5.522s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m6.322s
 user    0m5.678s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m6.324s
 user    0m5.676s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m5.539s
 user    0m5.539s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m5.662s
 user    0m5.662s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m5.644s
 user    0m5.644s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m6.485s
 user    0m5.515s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m5.579s
 user    0m5.579s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m6.317s
 user    0m5.683s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m6.506s
 user    0m5.494s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m5.435s
 user    0m5.435s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m5.577s
 user    0m5.577s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m5.381s
 user    0m5.381s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m5.602s
 user    0m5.602s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m6.351s
 user    0m5.649s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m6.394s
 user    0m5.605s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 2048
+
 real    0m6.401s
 user    0m5.599s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m22.034s
 user    0m21.966s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.857s
 user    0m22.143s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m22.077s
 user    0m22.076s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.575s
 user    0m22.424s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m22.407s
 user    0m22.406s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.571s
 user    0m22.428s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.304s
 user    0m22.695s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.423s
 user    0m22.576s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.227s
 user    0m22.772s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.138s
 user    0m22.861s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.216s
 user    0m22.783s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.128s
 user    0m22.871s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m22.333s
 user    0m22.333s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.074s
 user    0m23.074s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.033s
 user    0m22.966s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.080s
 user    0m22.920s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.069s
 user    0m22.930s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.179s
 user    0m22.820s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m22.748s
 user    0m22.747s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 4096
+
 real    0m23.408s
 user    0m22.591s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m90.514s
 user    1m90.511s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m91.215s
 user    1m90.782s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m91.640s
 user    1m90.357s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m90.037s
 user    1m90.035s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m91.169s
 user    1m90.829s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m90.476s
 user    1m90.473s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m90.904s
 user    1m90.901s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m90.641s
 user    1m89.356s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m91.568s
 user    1m90.429s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m91.387s
 user    1m90.610s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m88.508s
 user    1m88.505s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m89.231s
 user    1m89.228s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m91.114s
 user    1m90.884s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m91.711s
 user    1m90.286s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m89.672s
 user    1m88.325s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m89.393s
 user    1m89.390s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m91.169s
 user    1m90.828s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m91.839s
 user    1m90.159s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m90.035s
 user    1m89.962s
 sys     0m0.000s
 + ./mandelbrot_seq 0.175 0.375 -0.100 0.100 8192
+
 real    1m90.105s
 user    1m90.103s
 sys     0m0.000s
