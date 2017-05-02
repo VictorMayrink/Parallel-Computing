@@ -85,20 +85,36 @@ read_result <- function(df) {
 }
 
 results <- do.call("rbind", lapply(results, read_result))
+write.csv(results, file = "./results_time/results.csv")
 
+dados <- read.csv("~/GitProjects/Parallel-Computing/results_time/results.csv")
+library("dplyr")
+
+
+select(dados, algorithm, iomode, image,nthreads,imsize,real)
+
+grouped_result <- group_by(dados, algorithm,iomode,image,nthreads,imsize)
+
+summarised_result <- summarise(grouped_result,
+          media = mean(real, na.rm = TRUE),
+          desv_pad = sd(real))
+write.csv(summarised_result, file = "./results_time/summarised_result.csv")
+
+#Gera Gráficos sumarizados (Média + Desvio Padrão por número de threads)
 plots <- list()
 current_plot <- 1
-
-sizes <- unique(results$imsize)
+sizes <- unique(summarised_result$imsize)
+str(sizes)
 for (s in sizes) {
-  df <- results[results$imsize == s & results$iomode == "withoutIO",]
+  df <- summarised_result[summarised_result$imsize == s & summarised_result$iomode == "withoutIO",]
   plots[[current_plot]] <- list()
   plots[[current_plot]][["fig"]] <- ggplot(data = df, 
-    aes(x = as.factor(nthreads), y = real, color = algorithm)) +
-    geom_boxplot() +
+    aes(x = as.factor(nthreads), y = media, color = algorithm)) +
+    geom_point(stat = "identity", size = 5 ) +
+    geom_errorbar(aes(x = as.factor(nthreads), ymin = media - desv_pad, ymax =  media + desv_pad), width = 0.5) +
     facet_wrap(~image, scales = "free") +
     ggtitle("Tempo de Execução x Número de Threads", 
-            subtitle = sprintf("Tamanho da imagem: %s (Sem I/O)", s)) +
+           subtitle = sprintf("Tamanho da imagem: %s (Sem I/O)", s)) +
     xlab("Número de threads") +
     ylab("Tempo de execução (s)") +
     guides(color = guide_legend(title="Implementação")) +
@@ -112,14 +128,89 @@ for (s in sizes) {
           axis.title.y=element_text(vjust=5),
           axis.title.x=element_text(vjust=-65),
           plot.margin = unit(c(1,1,1,1), "cm"))
-  plots[[current_plot]][["filename"]] <- sprintf("BoxplotSize%s.pdf", s)
+    
+  plots[[current_plot]][["filename"]] <- sprintf("MediaDesvPadrPorThread_Size%s.pdf", s)
   current_plot <- current_plot + 1
 }
 
 for (p in plots) {
-  pdf(paste("./plots/", p[["filename"]], sep = ""), width = 16, height = 9)
+  pdf(paste("./plots/summarised/", p[["filename"]], sep = ""), width = 16, height = 9)
   print(p)
   dev.off()
 }
 
-write.csv(results, file = "./results_time/results.csv")
+#Gera Gráficos sumarizados (Média + Desvio Padrão por tamanho da Imagem)
+plots <- list()
+current_plot <- 1
+threads <- unique(summarised_result$nthreads)
+str(threads)
+for (s in threads) {
+  df <- summarised_result[summarised_result$nthreads == s & summarised_result$iomode == "withoutIO",]
+  plots[[current_plot]] <- list()
+  plots[[current_plot]][["fig"]] <- ggplot(data = df, 
+                                           aes(x = as.factor(imsize), y = media, color = algorithm)) +
+    geom_point(stat = "identity", size = 5 ) +
+    geom_errorbar(aes(x = as.factor(imsize), ymin = media - desv_pad, ymax =  media + desv_pad), width = 0.5) +
+    facet_wrap(~image, scales = "free") +
+    ggtitle("Tempo de Execução x Tamanho da Imagem", 
+            subtitle = sprintf("Número de Threads: %s (Sem I/O)", s)) +
+    xlab("Tamanho da Imagem") +
+    ylab("Tempo de execução (s)") +
+    guides(color = guide_legend(title="Implementação")) +
+    theme(plot.title = element_text(hjust = 0.5, vjust = 5, size = 20),
+          plot.subtitle = element_text(hjust = 0.5, size = 14, vjust = 5),
+          strip.text = element_text(size= 16),
+          axis.title = element_text(size = 16),
+          legend.title = element_text(size = 12),
+          legend.text = element_text(size = 12),
+          axis.text = element_text(size = 12),
+          axis.title.y=element_text(vjust=5),
+          axis.title.x=element_text(vjust=-65),
+          plot.margin = unit(c(1,1,1,1), "cm"))
+  
+  plots[[current_plot]][["filename"]] <- sprintf("MediaDesvPadrPorTamanho_Thread%s.pdf", s)
+  current_plot <- current_plot + 1
+}
+
+for (p in plots) {
+  pdf(paste("./plots/summarised/", p[["filename"]], sep = ""), width = 16, height = 9)
+  print(p)
+  dev.off()
+}
+# plots <- list()
+# current_plot <- 1
+# 
+# sizes <- unique(results$imsize)
+# for (s in sizes) {
+#   df <- results[results$imsize == s & results$iomode == "withoutIO",]
+#   plots[[current_plot]] <- list()
+#   plots[[current_plot]][["fig"]] <- ggplot(data = df, 
+#     aes(x = as.factor(nthreads), y = real, color = algorithm)) +
+#     geom_boxplot() +
+#     facet_wrap(~image, scales = "free") +
+#     ggtitle("Tempo de Execução x Número de Threads", 
+#             subtitle = sprintf("Tamanho da imagem: %s (Sem I/O)", s)) +
+#     xlab("Número de threads") +
+#     ylab("Tempo de execução (s)") +
+#     guides(color = guide_legend(title="Implementação")) +
+#     theme(plot.title = element_text(hjust = 0.5, vjust = 5, size = 20),
+#           plot.subtitle = element_text(hjust = 0.5, size = 14, vjust = 5),
+#           strip.text = element_text(size= 16),
+#           axis.title = element_text(size = 16),
+#           legend.title = element_text(size = 12),
+#           legend.text = element_text(size = 12),
+#           axis.text = element_text(size = 12),
+#           axis.title.y=element_text(vjust=5),
+#           axis.title.x=element_text(vjust=-65),
+#           plot.margin = unit(c(1,1,1,1), "cm"))
+#   plots[[current_plot]][["filename"]] <- sprintf("BoxplotSize%s.pdf", s)
+#   current_plot <- current_plot + 1
+# }
+# 
+# for (p in plots) {
+#   pdf(paste("./plots/", p[["filename"]], sep = ""), width = 16, height = 9)
+#   print(p)
+#   dev.off()
+# }
+
+
